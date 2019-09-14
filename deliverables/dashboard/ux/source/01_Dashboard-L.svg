@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1284px" height="724px" viewBox="0 0 1284 724" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>01_Dashboard-L</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="38" width="1284" height="53"></rect>
+        <filter x="-0.8%" y="-15.1%" width="101.6%" height="137.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="01_Dashboard-L" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#1D1E1F" x="0" y="0" width="1284" height="724"></rect>
+        <rect id="Background" stroke="#979797" fill="#F2F5F6" x="0.5" y="38.5" width="1283" height="685"></rect>
+        <g id="Group-4" transform="translate(0.000000, 91.000000)">
+            <rect id="Rectangle" fill="#5E4EA5" x="0" y="0" width="1284" height="52"></rect>
+            <text id="Dashboard" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="23" y="32">Dashboard</tspan>
+            </text>
+            <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="122" y="32">On-chain</tspan>
+            </text>
+            <text id="Advanced" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="310" y="32">Advanced</tspan>
+            </text>
+            <text id="Help" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="409" y="32">Help</tspan>
+            </text>
+            <text id="Lightning" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                <tspan x="211" y="32">Lightning</tspan>
+            </text>
+            <g id="PubKey" transform="translate(1122.000000, 11.000000)">
+                <rect id="Rectangle-Copy-7" fill="#7460C8" x="0" y="0" width="137" height="32" rx="16"></rect>
+                <text id="Show-Public-Key" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="17.2338867" y="21">Show Public Key</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Rectangle-13">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#424242" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Browser">
+            <path d="M0,6.00024414 C0,2.68640081 2.6794487,0 5.99234946,0 L1278.00765,0 C1281.31713,0 1284,2.68722626 1284,6.00024414 L1284,38 L0,38 L0,6.00024414 Z" id="Tab-BG---Right" fill="#363738"></path>
+            <circle id="Dot---Red" fill="#FF5F57" cx="18" cy="19" r="6"></circle>
+            <circle id="Dot---Orange" fill="#FFBF2F" cx="38" cy="19" r="6"></circle>
+            <circle id="Dot---Green" fill="#28CA42" cx="58" cy="19" r="6"></circle>
+            <g id="Back" transform="translate(76.000000, 7.000000)">
+                <rect id="Rectangle" fill="#656668" x="0" y="0" width="28" height="24" rx="4"></rect>
+                <path d="M10.1607883,11.3246277 L15.780455,5.65901618 C15.9603839,5.47908726 16.2513057,5.47908726 16.4312347,5.65901618 L17.1891941,6.41697565 C17.3691231,6.59690457 17.3691231,6.88782642 17.1891941,7.06775535 L12.6528768,11.6500175 L17.1891941,16.2322797 C17.3691231,16.4122086 17.3691231,16.7031305 17.1891941,16.8830594 L16.4312347,17.6410189 C16.2513057,17.8209478 15.9603839,17.8209478 15.780455,17.6410189 L10.1607883,11.9754074 C9.98085942,11.7954785 9.98085942,11.5045566 10.1607883,11.3246277 Z" id="a" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="Forward" transform="translate(105.000000, 7.000000)">
+                <rect id="Rectangle" fill="#656668" x="0" y="0" width="28" height="24" rx="4"></rect>
+                <path d="M18.1891941,11.9754074 L12.5695275,17.6410189 C12.3895986,17.8209478 12.0986767,17.8209478 11.9187478,17.6410189 L11.1607883,16.8830594 C10.9808594,16.7031305 10.9808594,16.4122086 11.1607883,16.2322797 L15.6971057,11.6500175 L11.1607883,7.06775535 C10.9808594,6.88782642 10.9808594,6.59690457 11.1607883,6.41697565 L11.9187478,5.65901618 C12.0986767,5.47908726 12.3895986,5.47908726 12.5695275,5.65901618 L18.1891941,11.3246277 C18.3691231,11.5045566 18.3691231,11.7954785 18.1891941,11.9754074 Z" id="a" fill="#FFFFFF" fill-rule="nonzero" opacity="0.200334821"></path>
+            </g>
+            <g id="New-Tab" transform="translate(1260.000000, 14.000000)">
+                <rect id="Rectangle" fill="#292A2B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M16.2531029,11.6843877 C16.3618742,11.6843877 16.4499775,11.7724909 16.4499775,11.8812622 L16.4499775,12.6687603 C16.4499775,12.7775316 16.3618742,12.8656349 16.2531029,12.8656349 L12.3156123,12.8656349 L12.3156123,16.8031255 C12.3156123,16.9118967 12.2275091,17 12.1187378,17 L11.3312397,17 C11.2224684,17 11.1343651,16.9118967 11.1343651,16.8031255 L11.1343651,12.8656349 L7.19687453,12.8656349 C7.08810328,12.8656349 7,12.7775316 7,12.6687603 L7,11.8812622 C7,11.7724909 7.08810328,11.6843877 7.19687453,11.6843877 L11.1343651,11.6843877 L11.1343651,7.74689706 C11.1343651,7.63812581 11.2224684,7.55002253 11.3312397,7.55002253 L12.1187378,7.55002253 C12.2275091,7.55002253 12.3156123,7.63812581 12.3156123,7.74689706 L12.3156123,11.6843877 L16.2531029,11.6843877 Z" id="p" fill="#FFFFFF" fill-rule="nonzero" opacity="0.497907366"></path>
+            </g>
+            <g id="URL" transform="translate(378.000000, 7.000000)">
+                <path d="M0,3.99005301 C0,1.78640758 1.78094395,5.31029755e-14 3.99753941,5.28693238e-14 L516.002461,-1.1012102e-15 C518.210241,-1.33393271e-15 520,1.78429328 520,3.99005301 L520,20.009947 C520,22.2135924 518.219056,24 516.002461,24 L3.99753941,24 C1.78975936,24 0,22.2157067 0,20.009947 L0,3.99005301 Z" id="URL-Bar" fill="#696A6B"></path>
+                <path d="M512.304658,5.17186422 C512.467743,5.17186422 512.59997,5.30412783 512.59997,5.46721261 L512.59997,10.1922013 C512.59997,10.3552861 512.467743,10.4875131 512.304658,10.4875131 L507.579669,10.4875131 C507.416585,10.4875131 507.284358,10.3552861 507.284358,10.1922013 L507.284358,9.51027815 C507.284358,9.34440559 507.42091,9.21109712 507.586711,9.21503845 L510.69705,9.2890827 C509.940722,7.61516854 508.257531,6.45158527 506.299985,6.45158527 C503.633864,6.45158527 501.476559,8.60927437 501.476559,11.2750113 C501.476559,13.9411327 503.634248,16.0984373 506.299985,16.0984373 C507.533046,16.0984373 508.65724,15.6369165 509.509554,14.8770557 C509.6264,14.7728747 509.804938,14.7799403 509.915632,14.8906341 L510.401377,15.3763797 C510.521276,15.4962781 510.51534,15.6917347 510.389505,15.8053845 C509.307296,16.7829079 507.873155,17.3781217 506.299985,17.3781217 C502.93257,17.3781217 500.202138,14.6509336 500.19686,11.2847685 C500.191635,7.92836054 502.924087,5.18242707 506.280471,5.17186422 C508.411171,5.16526784 510.288545,6.2506252 511.385221,7.89993005 L511.327471,5.47425415 C511.32353,5.30842965 511.456862,5.17186422 511.622711,5.17186422 L512.304658,5.17186422 Z" id="r" fill="#FFFFFF" fill-rule="nonzero" transform="translate(506.398415, 11.274993) rotate(-45.000000) translate(-506.398415, -11.274993) "></path>
+                <text id="Ride-the-Lightning" font-family="Roboto-Regular, Roboto" font-size="12.6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="210" y="17">Ride the Lightning</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-13" transform="translate(23.000000, 57.000000)">
+            <g id="Group-6">
+                <g id="Group-3">
+                    <circle id="Oval" fill="#28CA42" cx="5" cy="8" r="5"></circle>
+                    <text id="NODE:-AMORA_[UK01]" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.20000005" fill="#FFFFFF">
+                        <tspan x="16.2556636" y="13">NODE: AMORA_[UK01]</tspan>
+                    </text>
+                </g>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="0" y="32" width="179" height="2"></rect>
+            </g>
+            <g id="Group-2" transform="translate(203.000000, 0.000000)">
+                <circle id="Oval" fill="#28CA42" cx="5" cy="8" r="5"></circle>
+                <text id="NODE:-AMORA_[UK02]" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.20000005" fill="#FFFFFF">
+                    <tspan x="16.7556636" y="13">NODE: AMORA_[UK02]</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="Welcome!-Your-node-i" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#84979E">
+            <tspan x="49" y="182">Welcome! Your node is synced and up and running.</tspan>
+        </text>
+        <g id="RTL-Logo" transform="translate(1203.000000, 57.000000)" fill="#FFFFFF">
+            <path d="M5.10234375,10.1960631 L3.54375,10.1960631 L2.80546875,14.4124693 L0,14.4124693 L2.0671875,2.46871933 L6.28359375,2.47692246 C7.63438175,2.47692246 8.67480104,2.79273961 9.40488281,3.4243834 C10.1349646,4.05602718 10.4617191,4.91871386 10.3851562,6.01246933 C10.3249997,6.87653615 10.0761741,7.59156807 9.63867187,8.15758652 C9.20116969,8.72360498 8.58867581,9.17067082 7.80117187,9.49879746 L9.40898437,14.2730162 L9.40898437,14.4124693 L6.41484375,14.4124693 L5.10234375,10.1960631 Z M3.92109375,7.97301621 L5.56171875,7.98942246 C6.01015849,7.98942246 6.39980303,7.88004855 6.73066406,7.66129746 C7.06152509,7.44254636 7.29804616,7.1431353 7.44023438,6.76305527 C7.58242259,6.38297525 7.6234378,6.01520549 7.56328125,5.65973496 C7.4539057,5.05270067 7.06562834,4.732782 6.3984375,4.69996933 L4.4953125,4.69176621 L3.92109375,7.97301621 Z M21.0984375,4.69176621 L17.6203125,4.69176621 L15.9386719,14.4124693 L13.125,14.4124693 L14.8148438,4.69176621 L11.3941406,4.69176621 L11.7878906,2.46871933 L21.4839844,2.46871933 L21.0984375,4.69176621 Z M23.8464844,12.1976256 L28.7109375,12.1976256 L28.3253906,14.4124693 L20.6554688,14.4124693 L22.7226562,2.46871933 L25.5363281,2.46871933 L23.8464844,12.1976256 Z" id="RTL-Copy" fill-rule="nonzero"></path>
+            <path d="M37.882011,5.59373905 C38.4131621,5.59373905 38.7433371,6.1708163 38.4763316,6.62733033 L33.4232186,15.3554345 C33.2968796,15.5736259 33.0671926,15.699965 32.8260382,15.699965 C32.3867394,15.699965 32.0537046,15.2894051 32.1570525,14.8529943 L33.4806404,9.26873029 L30.0726546,9.26873029 C29.656347,9.26873029 29.3347797,8.90123677 29.3893415,8.48778904 L30.3080893,1.59718047 C30.3540155,1.25553795 30.646872,1 30.9914024,1 L35.1257676,1 C35.5765338,1 35.9067088,1.43066304 35.7918653,1.86707385 L34.5687655,5.59373905 L37.882011,5.59373905 Z" id="b-copy" fill-rule="nonzero"></path>
+            <text id="caret-down-copy" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700">
+                <tspan x="46" y="14">caret-down</tspan>
+            </text>
+        </g>
+        <path d="M29.1277704,202.5 C27.5776195,202.5 26.9405781,202.623018 26.282108,202.975172 C25.7173904,203.277186 25.2771863,203.71739 24.975172,204.282108 C24.6230184,204.940578 24.5,205.57762 24.5,207.12777 L24.5,433.87223 C24.5,435.42238 24.6230184,436.059422 24.975172,436.717892 C25.2771863,437.28261 25.7173904,437.722814 26.282108,438.024828 C26.9405781,438.376982 27.5776195,438.5 29.1277704,438.5 L309.87223,438.5 C311.42238,438.5 312.059422,438.376982 312.717892,438.024828 C313.28261,437.722814 313.722814,437.28261 314.024828,436.717892 C314.376982,436.059422 314.5,435.42238 314.5,433.87223 L314.5,207.12777 C314.5,205.57762 314.376982,204.940578 314.024828,204.282108 C313.722814,203.71739 313.28261,203.277186 312.717892,202.975172 C312.059422,202.623018 311.42238,202.5 309.87223,202.5 L29.1277704,202.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+        <text id="Node-Details" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#222831">
+            <tspan x="40" y="241">Node Details</tspan>
+        </text>
+        <g id="Group-5" transform="translate(40.000000, 270.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text id="LND-v.0.7.1-beta" font-size="16" fill="#222831">
+                <tspan x="0" y="31">LND v.0.7.1-beta</tspan>
+            </text>
+            <text id="Implementation" font-size="12" fill="#737373">
+                <tspan x="0" y="11">Implementation</tspan>
+            </text>
+        </g>
+        <g id="Group-7" transform="translate(40.000000, 329.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+            <text id="Bitcoin-Mainnet" font-size="16" fill="#222831">
+                <tspan x="0" y="31">Bitcoin Mainnet</tspan>
+            </text>
+            <text id="Chain" font-size="12" fill="#737373">
+                <tspan x="0" y="11">Chain</tspan>
+            </text>
+        </g>
+        <g id="Group-9" transform="translate(40.000000, 388.000000)">
+            <g id="Group-8" transform="translate(0.000000, 16.000000)">
+                <text id="100%" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                    <tspan x="10" y="15">100%</tspan>
+                </text>
+                <circle id="Oval" fill="#28CA42" cx="3" cy="9" r="3"></circle>
+            </g>
+            <text id="Synced" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                <tspan x="0" y="11">Synced</tspan>
+            </text>
+        </g>
+        <g id="Group-12" transform="translate(339.000000, 463.000000)">
+            <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,231.87223 C0.5,233.42238 0.623018378,234.059422 0.975172007,234.717892 C1.27718629,235.28261 1.71739041,235.722814 2.28210802,236.024828 C2.94057806,236.376982 3.5776195,236.5 5.1277704,236.5 L285.87223,236.5 C287.42238,236.5 288.059422,236.376982 288.717892,236.024828 C289.28261,235.722814 289.722814,235.28261 290.024828,234.717892 C290.376982,234.059422 290.5,233.42238 290.5,231.87223 L290.5,5.1277704 C290.5,3.5776195 290.376982,2.94057806 290.024828,2.28210802 C289.722814,1.71739041 289.28261,1.27718629 288.717892,0.975172007 C288.059422,0.623018378 287.42238,0.5 285.87223,0.5 L5.1277704,0.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <text id="Network-Information" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#222831">
+                <tspan x="16" y="39">Network Information</tspan>
+            </text>
+            <text id="9,796" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="16" y="99">9,796</tspan>
+            </text>
+            <text id="Number-of-nodes" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                <tspan x="16" y="79">Number of nodes</tspan>
+            </text>
+            <g id="Group-11" transform="translate(16.000000, 122.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                <text id="36,378" font-size="16" fill="#222831">
+                    <tspan x="0" y="31">36,378</tspan>
+                </text>
+                <text id="Number-of-channels" font-size="12" fill="#737373">
+                    <tspan x="0" y="11">Number of channels</tspan>
+                </text>
+            </g>
+            <text id="180-/-5.14" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="16" y="212">180 / 5.14 </tspan>
+            </text>
+            <text id="Max-out-degree-/-Avg" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                <tspan x="16" y="192">Max out degree / Avg out degree</tspan>
+            </text>
+        </g>
+        <g id="Group-19" transform="translate(654.000000, 463.000000)">
+            <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,231.87223 C0.5,233.42238 0.623018378,234.059422 0.975172007,234.717892 C1.27718629,235.28261 1.71739041,235.722814 2.28210802,236.024828 C2.94057806,236.376982 3.5776195,236.5 5.1277704,236.5 L285.87223,236.5 C287.42238,236.5 288.059422,236.376982 288.717892,236.024828 C289.28261,235.722814 289.722814,235.28261 290.024828,234.717892 C290.376982,234.059422 290.5,233.42238 290.5,231.87223 L290.5,5.1277704 C290.5,3.5776195 290.376982,2.94057806 290.024828,2.28210802 C289.722814,1.71739041 289.28261,1.27718629 288.717892,0.975172007 C288.059422,0.623018378 287.42238,0.5 285.87223,0.5 L5.1277704,0.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <text id="Network-Capacity" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#222831">
+                <tspan x="16" y="39">Network Capacity</tspan>
+            </text>
+            <text id="83,768,144,843-sats" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="16" y="99">83,768,144,843 sats</tspan>
+            </text>
+            <text id="Total-capacity" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                <tspan x="16" y="79">Total capacity</tspan>
+            </text>
+            <text id="2,311,450-sats" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="16" y="153">2,311,450 sats</tspan>
+            </text>
+            <text id="Max-channel-size" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                <tspan x="16" y="133">Max channel size</tspan>
+            </text>
+            <text id="14,187,090-sats" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="16" y="212">14,187,090 sats</tspan>
+            </text>
+            <text id="Average-channel-size" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                <tspan x="16" y="192">Average channel size</tspan>
+            </text>
+        </g>
+        <g id="Group-11" transform="translate(355.000000, 585.000000)"></g>
+        <g id="Group-14" transform="translate(355.000000, 644.000000)"></g>
+        <g id="Group-23" transform="translate(339.000000, 202.000000)">
+            <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,231.87223 C0.5,233.42238 0.623018378,234.059422 0.975172007,234.717892 C1.27718629,235.28261 1.71739041,235.722814 2.28210802,236.024828 C2.94057806,236.376982 3.5776195,236.5 5.1277704,236.5 L285.87223,236.5 C287.42238,236.5 288.059422,236.376982 288.717892,236.024828 C289.28261,235.722814 289.722814,235.28261 290.024828,234.717892 C290.376982,234.059422 290.5,233.42238 290.5,231.87223 L290.5,5.1277704 C290.5,3.5776195 290.376982,2.94057806 290.024828,2.28210802 C289.722814,1.71739041 289.28261,1.27718629 288.717892,0.975172007 C288.059422,0.623018378 287.42238,0.5 285.87223,0.5 L5.1277704,0.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <text id="Fee-Report" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#222831">
+                <tspan x="16" y="39">Fee Report </tspan>
+            </text>
+            <g id="Group-10" transform="translate(16.000000, 68.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                <text id="4-sats" font-size="16" fill="#222831">
+                    <tspan x="0" y="31">4 sats</tspan>
+                </text>
+                <text id="Daily" font-size="12" fill="#737373">
+                    <tspan x="0" y="11">Daily</tspan>
+                </text>
+            </g>
+            <g id="Group-11" transform="translate(16.000000, 127.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                <text id="25-sats" font-size="16" fill="#222831">
+                    <tspan x="0" y="31">25 sats</tspan>
+                </text>
+                <text id="Weekly" font-size="12" fill="#737373">
+                    <tspan x="0" y="11">Weekly</tspan>
+                </text>
+            </g>
+            <g id="Group-14" transform="translate(16.000000, 186.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                <text id="93-sats" font-size="16" fill="#222831">
+                    <tspan x="0" y="31">93 sats</tspan>
+                </text>
+                <text id="Monthly" font-size="12" fill="#737373">
+                    <tspan x="0" y="11">Monthly</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-18" transform="translate(24.000000, 463.000000)">
+            <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,231.87223 C0.5,233.42238 0.623018378,234.059422 0.975172007,234.717892 C1.27718629,235.28261 1.71739041,235.722814 2.28210802,236.024828 C2.94057806,236.376982 3.5776195,236.5 5.1277704,236.5 L285.87223,236.5 C287.42238,236.5 288.059422,236.376982 288.717892,236.024828 C289.28261,235.722814 289.722814,235.28261 290.024828,234.717892 C290.376982,234.059422 290.5,233.42238 290.5,231.87223 L290.5,5.1277704 C290.5,3.5776195 290.376982,2.94057806 290.024828,2.28210802 C289.722814,1.71739041 289.28261,1.27718629 288.717892,0.975172007 C288.059422,0.623018378 287.42238,0.5 285.87223,0.5 L5.1277704,0.5 Z" id="Rectangle-Copy" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <text id="Balances" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#222831">
+                <tspan x="16" y="39">Balances</tspan>
+            </text>
+            <g id="Group-10-Copy" transform="translate(16.000000, 68.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                <text id="60,321,003-sats" font-size="16" fill="#222831">
+                    <tspan x="0" y="31">60,321,003 sats</tspan>
+                </text>
+                <text id="On-chain" font-size="12" fill="#737373">
+                    <tspan x="0" y="11">On-chain</tspan>
+                </text>
+            </g>
+            <g id="Group-11-Copy" transform="translate(16.000000, 127.000000)" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                <text id="1,364,404-sats" font-size="16" fill="#222831">
+                    <tspan x="0" y="31">1,364,404 sats</tspan>
+                </text>
+                <text id="Lightning" font-size="12" fill="#737373">
+                    <tspan x="0" y="11">Lightning</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-22" transform="translate(654.000000, 202.000000)">
+            <g id="Group-20">
+                <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,231.87223 C0.5,233.42238 0.623018378,234.059422 0.975172007,234.717892 C1.27718629,235.28261 1.71739041,235.722814 2.28210802,236.024828 C2.94057806,236.376982 3.5776195,236.5 5.1277704,236.5 L285.87223,236.5 C287.42238,236.5 288.059422,236.376982 288.717892,236.024828 C289.28261,235.722814 289.722814,235.28261 290.024828,234.717892 C290.376982,234.059422 290.5,233.42238 290.5,231.87223 L290.5,5.1277704 C290.5,3.5776195 290.376982,2.94057806 290.024828,2.28210802 C289.722814,1.71739041 289.28261,1.27718629 288.717892,0.975172007 C288.059422,0.623018378 287.42238,0.5 285.87223,0.5 L5.1277704,0.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+                <text id="Channels-Status" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#222831">
+                    <tspan x="16" y="39">Channels Status</tspan>
+                </text>
+                <text id="0" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                    <tspan x="26" y="217">0</tspan>
+                </text>
+                <circle id="Oval" fill="#FFBF2F" cx="19" cy="211" r="3"></circle>
+                <text id="Pending" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                    <tspan x="16" y="197">Pending</tspan>
+                </text>
+                <text id="1" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                    <tspan x="26" y="158">1</tspan>
+                </text>
+                <circle id="Oval" fill="#FF5F57" cx="19" cy="152" r="3"></circle>
+                <text id="Closing" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                    <tspan x="16" y="138">Closing</tspan>
+                </text>
+                <text id="17" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                    <tspan x="26" y="99">17</tspan>
+                </text>
+                <circle id="Oval" fill="#28CA42" cx="19" cy="93" r="3"></circle>
+                <text id="Open" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                    <tspan x="16" y="79">Open</tspan>
+                </text>
+                <text id="1,364,404-sats" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                    <tspan x="92" y="99">1,364,404 sats</tspan>
+                </text>
+                <text id="Capacity" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                    <tspan x="92" y="79">Capacity</tspan>
+                </text>
+                <text id="53,245-sats" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                    <tspan x="92" y="158">53,245 sats</tspan>
+                </text>
+                <text id="Capacity" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                    <tspan x="92" y="138">Capacity</tspan>
+                </text>
+                <text id="0-sats" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                    <tspan x="92" y="217">0 sats</tspan>
+                </text>
+                <text id="Capacity" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#737373">
+                    <tspan x="92" y="197">Capacity</tspan>
+                </text>
+            </g>
+            <g id="Group-9" transform="translate(16.000000, 186.000000)">
+                <g id="Group-8" transform="translate(0.000000, 16.000000)"></g>
+            </g>
+            <g id="Group-9" transform="translate(16.000000, 127.000000)">
+                <g id="Group-8" transform="translate(0.000000, 16.000000)"></g>
+            </g>
+            <g id="Group-9" transform="translate(16.000000, 68.000000)">
+                <g id="Group-8" transform="translate(0.000000, 16.000000)"></g>
+            </g>
+            <g id="Group-15" transform="translate(92.000000, 68.000000)">
+                <g id="Group-8" transform="translate(0.000000, 16.000000)"></g>
+            </g>
+            <g id="Group-16" transform="translate(92.000000, 127.000000)">
+                <g id="Group-8" transform="translate(0.000000, 16.000000)"></g>
+            </g>
+            <g id="Group-17" transform="translate(92.000000, 186.000000)">
+                <g id="Group-8" transform="translate(0.000000, 16.000000)"></g>
+            </g>
+        </g>
+        <g id="Group-21" transform="translate(969.000000, 202.000000)">
+            <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,492.87223 C0.5,494.42238 0.623018378,495.059422 0.975172007,495.717892 C1.27718629,496.28261 1.71739041,496.722814 2.28210802,497.024828 C2.94057806,497.376982 3.5776195,497.5 5.1277704,497.5 L285.87223,497.5 C287.42238,497.5 288.059422,497.376982 288.717892,497.024828 C289.28261,496.722814 289.722814,496.28261 290.024828,495.717892 C290.376982,495.059422 290.5,494.42238 290.5,492.87223 L290.5,5.1277704 C290.5,3.5776195 290.376982,2.94057806 290.024828,2.28210802 C289.722814,1.71739041 289.28261,1.27718629 288.717892,0.975172007 C288.059422,0.623018378 287.42238,0.5 285.87223,0.5 L5.1277704,0.5 Z" id="Rectangle-Copy-5" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <text id="Channels-Capacity-Copy" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#222831">
+                <tspan x="16" y="39">Channels Capacity</tspan>
+            </text>
+            <rect id="Rectangle-Copy-6" fill="#AA9FDA" x="19" y="106" width="252" height="6" rx="3"></rect>
+            <rect id="Rectangle-Copy-8" fill="#5E4EA5" x="17" y="106" width="98" height="6" rx="3"></rect>
+            <text id="ACINQ" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="17" y="83">ACINQ</tspan>
+            </text>
+            <text id="Local:-1,666,003-sat" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="17" y="100">Local: </tspan>
+                <tspan x="46.0820312" y="100" font-family="Roboto-Medium, Roboto" font-weight="400">1,666,003 sats</tspan>
+            </text>
+            <text id="Remote:-1,666,003-sa" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="165.888672" y="99">Remote: 1,666,003 sats</tspan>
+            </text>
+            <rect id="Rectangle-Copy-6" fill="#AA9FDA" x="19" y="174" width="252" height="6" rx="3"></rect>
+            <rect id="Rectangle-Copy-8" fill="#5E4EA5" x="17" y="174" width="164" height="6" rx="3"></rect>
+            <text id="LNBIG.com-[lnd-01]" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="17" y="151">LNBIG.com [lnd-01]</tspan>
+            </text>
+            <text id="Local:-1,666,003-sat" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="17" y="168">Local: </tspan>
+                <tspan x="46.0820312" y="168" font-family="Roboto-Medium, Roboto" font-weight="400">1,666,003 sats</tspan>
+            </text>
+            <text id="Remote:-1,666,003-sa" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="165.888672" y="167">Remote: 1,666,003 sats</tspan>
+            </text>
+            <rect id="Rectangle-Copy-6" fill="#AA9FDA" x="19" y="242" width="252" height="6" rx="3"></rect>
+            <rect id="Rectangle-Copy-8" fill="#5E4EA5" x="17" y="242" width="43" height="6" rx="3"></rect>
+            <text id="ln1.satoshilabs.com" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="17" y="219">ln1.satoshilabs.com</tspan>
+            </text>
+            <text id="Local:-1,666,003-sat" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="17" y="236">Local: </tspan>
+                <tspan x="46.0820312" y="236" font-family="Roboto-Medium, Roboto" font-weight="400">1,666,003 sats</tspan>
+            </text>
+            <text id="Remote:-1,666,003-sa" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="165.888672" y="235">Remote: 1,666,003 sats</tspan>
+            </text>
+            <rect id="Rectangle-Copy-6" fill="#AA9FDA" x="19" y="310" width="252" height="6" rx="3"></rect>
+            <rect id="Rectangle-Copy-8" fill="#5E4EA5" x="17" y="310" width="218" height="6" rx="3"></rect>
+            <text id="LightningPowerUsers." font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="17" y="287">LightningPowerUsers.com</tspan>
+            </text>
+            <text id="Local:-1,666,003-sat" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="17" y="304">Local: </tspan>
+                <tspan x="46.0820312" y="304" font-family="Roboto-Medium, Roboto" font-weight="400">1,666,003 sats</tspan>
+            </text>
+            <text id="Remote:-1,666,003-sa" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="165.888672" y="303">Remote: 1,666,003 sats</tspan>
+            </text>
+            <rect id="Rectangle-Copy-6" fill="#AA9FDA" x="19" y="378" width="252" height="6" rx="3"></rect>
+            <rect id="Rectangle-Copy-8" fill="#5E4EA5" x="17" y="378" width="22" height="6" rx="3"></rect>
+            <text id="Bitrefill.com" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="17" y="355">Bitrefill.com</tspan>
+            </text>
+            <text id="Local:-1,666,003-sat" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="17" y="372">Local: </tspan>
+                <tspan x="46.0820312" y="372" font-family="Roboto-Medium, Roboto" font-weight="400">1,666,003 sats</tspan>
+            </text>
+            <text id="Remote:-1,666,003-sa" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="165.888672" y="371">Remote: 1,666,003 sats</tspan>
+            </text>
+            <rect id="Rectangle-Copy-6" fill="#AA9FDA" x="19" y="446" width="252" height="6" rx="3"></rect>
+            <rect id="Rectangle-Copy-8" fill="#5E4EA5" x="17" y="446" width="227" height="6" rx="3"></rect>
+            <text id="LNBIG.com-[lnd-01]" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#222831">
+                <tspan x="17" y="423">LNBIG.com [lnd-01]</tspan>
+            </text>
+            <text id="Local:-1,666,003-sat" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="17" y="440">Local: </tspan>
+                <tspan x="46.0820312" y="440" font-family="Roboto-Medium, Roboto" font-weight="400">1,666,003 sats</tspan>
+            </text>
+            <text id="Remote:-1,666,003-sa" font-family="Roboto-Regular, Roboto" font-size="10" font-weight="normal" fill="#5E4EA5">
+                <tspan x="165.888672" y="439">Remote: 1,666,003 sats</tspan>
+            </text>
+            <text id="ellipsis-v-copy-3" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="20" font-weight="normal" fill="#424242">
+                <tspan x="266" y="40">ellipsis-v</tspan>
+            </text>
+        </g>
+        <path d="M921.499994,232.625022 C922.535148,232.625022 923.37499,233.464864 923.37499,234.500018 C923.37499,235.535172 922.535148,236.375013 921.499994,236.375013 C920.46484,236.375013 919.624999,235.535172 919.624999,234.500018 C919.624999,233.464864 920.46484,232.625022 921.499994,232.625022 Z M919.624999,228.562532 C919.624999,227.527378 920.46484,226.687537 921.499994,226.687537 C922.535148,226.687537 923.37499,227.527378 923.37499,228.562532 C923.37499,229.597686 922.535148,230.437528 921.499994,230.437528 C920.46484,230.437528 919.624999,229.597686 919.624999,228.562532 Z M919.624999,240.437504 C919.624999,239.40235 920.46484,238.562508 921.499994,238.562508 C922.535148,238.562508 923.37499,239.40235 923.37499,240.437504 C923.37499,241.472658 922.535148,242.312499 921.499994,242.312499 C920.46484,242.312499 919.624999,241.472658 919.624999,240.437504 Z" id="e" fill="#424242" fill-rule="nonzero"></path>
+        <path d="M606.499994,232.625022 C607.535148,232.625022 608.37499,233.464864 608.37499,234.500018 C608.37499,235.535172 607.535148,236.375013 606.499994,236.375013 C605.46484,236.375013 604.624999,235.535172 604.624999,234.500018 C604.624999,233.464864 605.46484,232.625022 606.499994,232.625022 Z M604.624999,228.562532 C604.624999,227.527378 605.46484,226.687537 606.499994,226.687537 C607.535148,226.687537 608.37499,227.527378 608.37499,228.562532 C608.37499,229.597686 607.535148,230.437528 606.499994,230.437528 C605.46484,230.437528 604.624999,229.597686 604.624999,228.562532 Z M604.624999,240.437504 C604.624999,239.40235 605.46484,238.562508 606.499994,238.562508 C607.535148,238.562508 608.37499,239.40235 608.37499,240.437504 C608.37499,241.472658 607.535148,242.312499 606.499994,242.312499 C605.46484,242.312499 604.624999,241.472658 604.624999,240.437504 Z" id="e" fill="#424242" fill-rule="nonzero"></path>
+        <path d="M291.499994,232.625022 C292.535148,232.625022 293.37499,233.464864 293.37499,234.500018 C293.37499,235.535172 292.535148,236.375013 291.499994,236.375013 C290.46484,236.375013 289.624999,235.535172 289.624999,234.500018 C289.624999,233.464864 290.46484,232.625022 291.499994,232.625022 Z M289.624999,228.562532 C289.624999,227.527378 290.46484,226.687537 291.499994,226.687537 C292.535148,226.687537 293.37499,227.527378 293.37499,228.562532 C293.37499,229.597686 292.535148,230.437528 291.499994,230.437528 C290.46484,230.437528 289.624999,229.597686 289.624999,228.562532 Z M289.624999,240.437504 C289.624999,239.40235 290.46484,238.562508 291.499994,238.562508 C292.535148,238.562508 293.37499,239.40235 293.37499,240.437504 C293.37499,241.472658 292.535148,242.312499 291.499994,242.312499 C290.46484,242.312499 289.624999,241.472658 289.624999,240.437504 Z" id="e" fill="#424242" fill-rule="nonzero"></path>
+        <path d="M921.499994,492.625022 C922.535148,492.625022 923.37499,493.464864 923.37499,494.500018 C923.37499,495.535172 922.535148,496.375013 921.499994,496.375013 C920.46484,496.375013 919.624999,495.535172 919.624999,494.500018 C919.624999,493.464864 920.46484,492.625022 921.499994,492.625022 Z M919.624999,488.562532 C919.624999,487.527378 920.46484,486.687537 921.499994,486.687537 C922.535148,486.687537 923.37499,487.527378 923.37499,488.562532 C923.37499,489.597686 922.535148,490.437528 921.499994,490.437528 C920.46484,490.437528 919.624999,489.597686 919.624999,488.562532 Z M919.624999,500.437504 C919.624999,499.40235 920.46484,498.562508 921.499994,498.562508 C922.535148,498.562508 923.37499,499.40235 923.37499,500.437504 C923.37499,501.472658 922.535148,502.312499 921.499994,502.312499 C920.46484,502.312499 919.624999,501.472658 919.624999,500.437504 Z" id="e" fill="#424242" fill-rule="nonzero"></path>
+        <path d="M606.499994,492.625022 C607.535148,492.625022 608.37499,493.464864 608.37499,494.500018 C608.37499,495.535172 607.535148,496.375013 606.499994,496.375013 C605.46484,496.375013 604.624999,495.535172 604.624999,494.500018 C604.624999,493.464864 605.46484,492.625022 606.499994,492.625022 Z M604.624999,488.562532 C604.624999,487.527378 605.46484,486.687537 606.499994,486.687537 C607.535148,486.687537 608.37499,487.527378 608.37499,488.562532 C608.37499,489.597686 607.535148,490.437528 606.499994,490.437528 C605.46484,490.437528 604.624999,489.597686 604.624999,488.562532 Z M604.624999,500.437504 C604.624999,499.40235 605.46484,498.562508 606.499994,498.562508 C607.535148,498.562508 608.37499,499.40235 608.37499,500.437504 C608.37499,501.472658 607.535148,502.312499 606.499994,502.312499 C605.46484,502.312499 604.624999,501.472658 604.624999,500.437504 Z" id="e" fill="#424242" fill-rule="nonzero"></path>
+        <path d="M291.499994,492.625022 C292.535148,492.625022 293.37499,493.464864 293.37499,494.500018 C293.37499,495.535172 292.535148,496.375013 291.499994,496.375013 C290.46484,496.375013 289.624999,495.535172 289.624999,494.500018 C289.624999,493.464864 290.46484,492.625022 291.499994,492.625022 Z M289.624999,488.562532 C289.624999,487.527378 290.46484,486.687537 291.499994,486.687537 C292.535148,486.687537 293.37499,487.527378 293.37499,488.562532 C293.37499,489.597686 292.535148,490.437528 291.499994,490.437528 C290.46484,490.437528 289.624999,489.597686 289.624999,488.562532 Z M289.624999,500.437504 C289.624999,499.40235 290.46484,498.562508 291.499994,498.562508 C292.535148,498.562508 293.37499,499.40235 293.37499,500.437504 C293.37499,501.472658 292.535148,502.312499 291.499994,502.312499 C290.46484,502.312499 289.624999,501.472658 289.624999,500.437504 Z" id="e" fill="#424242" fill-rule="nonzero"></path>
+        <path d="M33.7499815,168.250033 C38.0312213,168.250033 41.499963,171.718775 41.499963,176.000014 C41.499963,180.281254 38.0312213,183.749996 33.7499815,183.749996 C29.4687417,183.749996 26,180.281254 26,176.000014 C26,171.718775 29.4687417,168.250033 33.7499815,168.250033 Z M33.7499815,182.749998 C37.4718354,182.749998 40.4999654,179.721868 40.4999654,176.000014 C40.4999654,172.27816 37.4718354,169.25003 33.7499815,169.25003 C30.0281276,169.25003 26.9999976,172.27816 26.9999976,176.000014 C26.9999976,179.721868 30.0281276,182.749998 33.7499815,182.749998 Z M36.5687309,178.181253 C36.7468616,177.96876 37.0624736,177.940622 37.274967,178.11564 C37.4874604,178.290628 37.5155975,178.60627 37.3374669,178.818764 C36.446844,179.887517 35.1374904,180.500004 33.7499815,180.500004 C32.3624726,180.500004 31.0531191,179.887517 30.165609,178.821876 C29.9874783,178.609383 30.0156154,178.296884 30.2281088,178.118753 C30.4374894,177.940622 30.7531015,177.96876 30.9312321,178.181253 C31.6312427,179.018745 32.6593469,179.500006 33.7499815,179.500006 C34.8406161,179.500006 35.8687204,179.018745 36.5687309,178.181253 Z M31.2499899,175.50002 C30.6968577,175.50002 30.2499899,175.053148 30.2499899,174.50002 C30.2499899,173.946888 30.6968577,173.50002 31.2499899,173.50002 C31.8031173,173.50002 32.2499899,173.946888 32.2499899,174.50002 C32.2499899,175.053148 31.8031173,175.50002 31.2499899,175.50002 Z M36.2499779,175.50002 C35.6968458,175.50002 35.2499779,175.053148 35.2499779,174.50002 C35.2499779,173.946888 35.6968458,173.50002 36.2499779,173.50002 C36.8031053,173.50002 37.2499779,173.946888 37.2499779,174.50002 C37.2499779,175.053148 36.8031053,175.50002 36.2499779,175.50002 Z" id="s" fill="#84979E" fill-rule="nonzero"></path>
+    </g>
+</svg>
