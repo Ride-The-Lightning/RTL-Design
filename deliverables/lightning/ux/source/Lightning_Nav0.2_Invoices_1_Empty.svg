@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1284px" height="724px" viewBox="0 0 1284 724" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>Lightning_Nav0.2_Invoices_Empty</title>
+    <title>Lightning_Nav0.2_Invoices_1_Empty</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="91" width="218" height="633"></rect>
@@ -23,7 +23,7 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="Lightning_Nav0.2_Invoices_Empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Lightning_Nav0.2_Invoices_1_Empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#1D1E1F" x="0" y="0" width="1284" height="724"></rect>
         <rect id="Background" fill="#F2F5F6" x="0" y="38" width="1284" height="686"></rect>
         <g id="Rectangle">
