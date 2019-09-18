@@ -22,6 +22,12 @@
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
+        <rect id="path-7" x="5.68434189e-14" y="0" width="873" height="528" rx="4"></rect>
+        <filter x="-5.0%" y="-8.1%" width="110.8%" height="117.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264450393 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
     <g id="lightning_nav02_01_invoices_qrcode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#1D1E1F" x="0" y="0" width="1284" height="724"></rect>
@@ -396,5 +402,121 @@
             <path d="M1,207.5 L654.5,207.5" id="Line-2" stroke="#E1E1E1" stroke-linecap="square"></path>
         </g>
         <rect id="Rectangle" fill-opacity="0.249972684" fill="#000000" x="0" y="37" width="1284" height="688"></rect>
+        <g id="Group-34" transform="translate(206.000000, 98.000000)">
+            <g id="Rectangle-Copy">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <g id="Group-5-Copy" transform="translate(797.000000, 473.000000)">
+                <rect id="Rectangle-Copy-7" stroke="#DCDCDC" x="0.5" y="0.5" width="53" height="35" rx="4"></rect>
+                <text id="OK" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#202020">
+                    <tspan x="17.7236328" y="23">OK</tspan>
+                </text>
+            </g>
+            <path d="M294,291 L849.5,291.5" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+            <g id="Group-27" transform="translate(294.000000, 180.000000)" font-size="14" letter-spacing="0.200000003">
+                <text id="R-Preimage" font-family="Roboto-Bold, Roboto" font-weight="bold" fill="#4F4F4F">
+                    <tspan x="0" y="142">R Preimage</tspan>
+                </text>
+                <text id="No-preimage-availabl" font-family="Roboto-Italic, Roboto" font-style="italic" font-weight="normal" fill="#C7C7C7">
+                    <tspan x="0" y="166">No preimage available yet.</tspan>
+                </text>
+                <text id="Not-settled-yet." font-family="Roboto-Italic, Roboto" font-style="italic" font-weight="normal" fill="#C7C7C7">
+                    <tspan x="292" y="13">Not settled yet.</tspan>
+                </text>
+            </g>
+            <path d="M294,367.5 L849.5,368" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+            <g id="Group-28" transform="translate(294.000000, 234.000000)" font-size="14" letter-spacing="0.200000003">
+                <text id="R-Hash" font-family="Roboto-Bold, Roboto" font-weight="bold" fill="#4F4F4F">
+                    <tspan x="0" y="13">R Hash</tspan>
+                </text>
+                <text id="6ZxgD/KZDg1FM9P8h2Mr" font-family="Roboto-Regular, Roboto" font-weight="normal" fill="#808080">
+                    <tspan x="0" y="37">6ZxgD/KZDg1FM9P8h2MrQcW7YEZp7d2clOmF3P8AMn8= </tspan>
+                </text>
+            </g>
+            <path d="M294,442 L559.749892,442.239199" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+            <text id="Expiry" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="294" y="398">Expiry</tspan>
+            </text>
+            <text id="3,600" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#808080">
+                <tspan x="294" y="422">3,600</tspan>
+            </text>
+            <path d="M583,442 L848.749892,442.239199" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+            <g id="Group-29" transform="translate(583.000000, 385.000000)" font-size="14" letter-spacing="0.200000003">
+                <text id="CLTV-Expiry" font-family="Roboto-Bold, Roboto" font-weight="bold" fill="#4F4F4F">
+                    <tspan x="0" y="13">CLTV Expiry</tspan>
+                </text>
+                <text id="40" font-family="Roboto-Regular, Roboto" font-weight="normal" fill="#808080">
+                    <tspan x="0" y="37">40</tspan>
+                </text>
+            </g>
+            <g id="Group-32" transform="translate(294.000000, 156.000000)">
+                <g id="Group-31">
+                    <text id="Date-Created" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" letter-spacing="0.200000003" fill="#4F4F4F">
+                        <tspan x="0" y="13">Date Created</tspan>
+                    </text>
+                    <text id="Sep/12/19-00:03:38" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#808080">
+                        <tspan x="0" y="37">Sep/12/19 00:03:38 </tspan>
+                    </text>
+                    <path d="M5.96855898e-13,58.75 L264.999889,58.5077698" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <g id="Group-31" transform="translate(586.000000, 78.000000)">
+                <text id="Memo" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" letter-spacing="0.200000003" fill="#4F4F4F">
+                    <tspan x="0" y="13">Memo	</tspan>
+                </text>
+                <text id="Hello" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#808080">
+                    <tspan x="0" y="37">Hello</tspan>
+                </text>
+                <path d="M5.96855898e-13,58.75 L264.999889,58.5077698" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-31" transform="translate(294.000000, 79.000000)">
+                <text id="Amount" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" letter-spacing="0.200000003" fill="#4F4F4F">
+                    <tspan x="0" y="13">Amount	</tspan>
+                </text>
+                <text id="100,000-sats" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#808080">
+                    <tspan x="0" y="37">100,000 sats</tspan>
+                </text>
+                <path d="M5.96855898e-13,58.75 L264.999889,58.5077698" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+            </g>
+            <g id="Group-32" transform="translate(586.000000, 156.000000)">
+                <g id="Group-31">
+                    <text id="Date-Settled" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" letter-spacing="0.200000003" fill="#4F4F4F">
+                        <tspan x="0" y="13">Date Settled</tspan>
+                    </text>
+                    <path d="M5.96855898e-13,58.75 L264.999889,58.5077698" id="Line-2-Copy" stroke="#E1E1E1" stroke-linecap="square"></path>
+                </g>
+            </g>
+            <path d="M0,0 L267,0 C269.209139,-4.05812251e-16 271,1.790861 271,4 L271,524 C271,526.209139 269.209139,528 267,528 L0,528 L0,528 L0,0 Z" id="Rectangle" fill="#EFEFEF" transform="translate(135.500000, 264.000000) scale(-1, 1) translate(-135.500000, -264.000000) "></path>
+            <path d="M29.1277704,268.5 C27.5776195,268.5 26.9405781,268.623018 26.282108,268.975172 C25.7173904,269.277186 25.2771863,269.71739 24.975172,270.282108 C24.6230184,270.940578 24.5,271.57762 24.5,273.12777 L24.5,450.87223 C24.5,452.42238 24.6230184,453.059422 24.975172,453.717892 C25.2771863,454.28261 25.7173904,454.722814 26.282108,455.024828 C26.9405781,455.376982 27.5776195,455.5 29.1277704,455.5 L241.87223,455.5 C243.42238,455.5 244.059422,455.376982 244.717892,455.024828 C245.28261,454.722814 245.722814,454.28261 246.024828,453.717892 C246.376982,453.059422 246.5,452.42238 246.5,450.87223 L246.5,273.12777 C246.5,271.57762 246.376982,270.940578 246.024828,270.282108 C245.722814,269.71739 245.28261,269.277186 244.717892,268.975172 C244.059422,268.623018 243.42238,268.5 241.87223,268.5 L29.1277704,268.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <text id="lnbc2500u1pwnlp6qpp5" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#505050">
+                <tspan x="36" y="294">lnbc2500u1pwnlp6qpp5axwxq</tspan>
+                <tspan x="36" y="310">rljny8q63fn607gwcetg8zmkcz</tspan>
+                <tspan x="36" y="326">xd8kam8y5axzaelcqxflsdqqcq</tspan>
+                <tspan x="36" y="342">zpgzasdm6uzje2dsmxs9aqt62</tspan>
+                <tspan x="36" y="358">sgexunu9arp6smry627maam7</tspan>
+                <tspan x="36" y="374">xlf33zl3ak3v8quyhru9wxags5</tspan>
+                <tspan x="36" y="390">336zgjndajhh8wfc0guqe43mp</tspan>
+                <tspan x="36" y="406">jlgu4qp2t4py7</tspan>
+            </text>
+            <g id="Group-33" transform="translate(24.000000, 468.000000)">
+                <g>
+                    <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="0.5" y="0.5" width="222" height="35" rx="4"></rect>
+                    <text id="Copy-Payment-Request" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#202020">
+                        <tspan x="38.9346002" y="23">Copy Payment Request</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-30" transform="translate(24.000000, 21.000000)">
+                <path d="M5.1277704,0.5 C3.5776195,0.5 2.94057806,0.623018378 2.28210802,0.975172007 C1.71739041,1.27718629 1.27718629,1.71739041 0.975172007,2.28210802 C0.623018378,2.94057806 0.5,3.5776195 0.5,5.1277704 L0.5,217.87223 C0.5,219.42238 0.623018378,220.059422 0.975172007,220.717892 C1.27718629,221.28261 1.71739041,221.722814 2.28210802,222.024828 C2.94057806,222.376982 3.5776195,222.5 5.1277704,222.5 L217.87223,222.5 C219.42238,222.5 220.059422,222.376982 220.717892,222.024828 C221.28261,221.722814 221.722814,221.28261 222.024828,220.717892 C222.376982,220.059422 222.5,219.42238 222.5,217.87223 L222.5,5.1277704 C222.5,3.5776195 222.376982,2.94057806 222.024828,2.28210802 C221.722814,1.71739041 221.28261,1.27718629 220.717892,0.975172007 C220.059422,0.623018378 219.42238,0.5 217.87223,0.5 L5.1277704,0.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+                <image id="Unknown" x="12" y="12" width="200" height="200" xlink:href="data:image/png;base64,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"></image>
+            </g>
+            <g id="Group-29" transform="translate(294.000000, 21.000000)">
+                <text id="Invoice-Information" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#2E2E2E">
+                    <tspan x="29" y="19">Invoice Information</tspan>
+                </text>
+                <path d="M13.8244706,11.6428556 C14.0013109,11.6428556 14.1459699,11.7874843 14.1459699,11.9642857 L14.1459699,12.6071429 C14.1459699,12.7839443 14.0013109,12.928573 13.8244706,12.928573 L4.1794911,12.928573 C4.00265078,12.928573 3.85799179,12.7839443 3.85799179,12.6071429 L3.85799179,11.9642857 C3.85799179,11.7874843 4.00265078,11.6428556 4.1794911,11.6428556 L13.8244706,11.6428556 Z M13.8244706,15.4999985 C14.0013109,15.4999985 14.1459699,15.6446272 14.1459699,15.8214286 L14.1459699,16.4642857 C14.1459699,16.6410871 14.0013109,16.7857158 13.8244706,16.7857158 L4.1794911,16.7857158 C4.00265078,16.7857158 3.85799179,16.6410871 3.85799179,16.4642857 L3.85799179,15.8214286 C3.85799179,15.6446272 4.00265078,15.4999985 4.1794911,15.4999985 L13.8244706,15.4999985 Z M16.8023423,2 C17.4292895,2 18.0039617,2.50223214 18,3.20135498 L18,21.374115 C18,22.0812422 17.4252472,22.5714286 16.8023423,22.5714286 C16.5652601,22.5714286 16.3241356,22.499115 16.1071079,22.3424029 L14.3589553,21.0848214 L12.8077368,22.2017779 C12.4701469,22.4468907 12.076318,22.5674264 11.6824892,22.5674264 C11.2886604,22.5674264 10.8907893,22.4428493 10.5531993,22.2017779 L9.00198084,21.0848214 L7.45076234,22.2017779 C7.11317236,22.4468907 6.71934355,22.5674264 6.32551473,22.5674264 C5.92764363,22.5674264 5.53381482,22.4428493 5.19622484,22.2017779 L3.64500634,21.0848214 L1.89685381,22.3424029 C1.67582303,22.499115 1.43469855,22.5714286 1.20161939,22.5714286 C0.574672178,22.5714286 0,22.0691964 0,21.374115 L0,3.20135498 C0,2.49418858 0.578714466,2.00400216 1.20161939,2 C1.43870159,2 1.67982608,2.07231358 1.89685381,2.2290257 L3.64500634,3.48660714 L5.19622484,2.3696507 C5.53381482,2.12453788 5.92764363,2.00400216 6.32147245,2.00400216 C6.71530126,2.00400216 7.11317236,2.12857928 7.45076234,2.3696507 L9.00198084,3.48660714 L10.5531993,2.3696507 C10.8907893,2.12453788 11.2846181,2.00400216 11.6784469,2.00400216 C12.076318,2.00400216 12.4701469,2.12857928 12.8077368,2.3696507 L14.3589553,3.48660714 L16.1071079,2.2290257 C16.3281386,2.07231358 16.5692631,2 16.8023423,2 Z M16.7179644,21.1973136 L16.7179644,3.37411499 L15.1104678,4.53125 L14.3629976,5.07366071 L13.6114851,4.53125 L12.0602274,3.41829572 C11.9477105,3.33793858 11.8191029,3.29375785 11.6824892,3.29375785 C11.5458363,3.29375785 11.4172287,3.33393642 11.3047118,3.41429356 L9.75349334,4.53125 L9.00198084,5.07366071 L8.25046834,4.53125 L6.69924984,3.41829572 C6.58673293,3.33793858 6.45812535,3.29375785 6.32147245,3.29375785 C6.18886183,3.29375785 6.06025425,3.33393642 5.94773734,3.41429356 L4.39651884,4.53125 L3.64500634,5.07366071 L2.89349384,4.53125 L1.28599726,3.37411499 L1.28599726,21.2214443 L2.89349384,20.0401786 L3.64096405,19.4977679 L4.39247655,20.0401786 L5.9437343,21.1531328 C6.05625121,21.23349 6.18485878,21.2776707 6.32147245,21.2776707 C6.45812535,21.2776707 6.58673293,21.2374922 6.69924984,21.157135 L8.25046834,20.0401786 L9.00198084,19.4977679 L9.75349334,20.0401786 L11.3047118,21.1531328 C11.4172287,21.23349 11.5458363,21.2776707 11.6824892,21.2776707 C11.8150999,21.2776707 11.9437074,21.2374922 12.0562243,21.157135 L13.6074428,20.0401786 L14.3589553,19.4977679 L15.1104678,20.0401786 L16.7179644,21.1973136 Z M13.8244706,7.78571275 C14.0013109,7.78571275 14.1459699,7.93034145 14.1459699,8.10714286 L14.1459699,8.75 C14.1459699,8.92680141 14.0013109,9.0714301 13.8244706,9.0714301 L4.1794911,9.0714301 C4.00265078,9.0714301 3.85799179,8.92680141 3.85799179,8.75 L3.85799179,8.10714286 C3.85799179,7.93034145 4.00265078,7.78571275 4.1794911,7.78571275 L13.8244706,7.78571275 Z" id="r" fill="#292929" fill-rule="nonzero"></path>
+            </g>
+        </g>
     </g>
 </svg>
