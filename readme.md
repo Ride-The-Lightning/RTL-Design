@@ -52,17 +52,22 @@ $ git checkout -b ux/feature1 design
 
 This is the folder structure being used to keep things organised and manageable for all of us. Follow it.
 
-When you are ready to work on a new feature, you have to create a specific feature folder inside `deliverables`. Note that we have two streams of work, `ux` and `ui` so use the appropriate folder name, and always include the `source`, `exports` folders as the structure above.
-
 <img src="images/folderstructure.png" width="700">
 
+Inside RTL-Design you will find two main folders for the design work. They are based on the lightning implementations available in RTL `lnd` and `clightning` even though they might share designs the folders are separate.
 
-This is a real example of the RTL-Design folder (which might be outdated already). But its a snapshot how it looked and the folder structure in use.
+Once you choose an implementation to work on, within its main folder you can find feature folders e.g., `dashboard`, `onchain`, `lightning` that contain the design work for the said features, you can either work on those, or start working on a new feature by creating it's folder.
 
-<img src="images/rtldesignfolder.png" width="800">
+**Feature Folder Contents**
+
+`ui` - Visual design  
+`ux` - User experience design  
+`exports` - High resolution .pngs of the artboards  
+`source` - Editable files e.g., .sketch, .psd, .svg, .xcf
+
 
 #### File Formats
-To keep the design workflow accessible to all, we are using open file formats that can also be tracked within git. You can use proprietary file formats but always keep a copy in an open file format such as **.SVG** in the `source` folder.
+To keep the design workflow accessible to all, we are using open file formats that can also be tracked within git. You can use proprietary formats but always keep a copy in an open file format such as **.SVG** in the `source` folder.
 
 ##### Sketch App
 >With the launch of Sketch v43, the **.sketch** file format is now open, which means it can now be tracked within git. To see how you can use this file format please check this [.sketch workflow](https://github.com/diogorsergio/RTL-Design/blob/master/sketchflow.md) for RTL-Design.
