@@ -1,113 +1,49 @@
-## Gitflow + Design
+<p align='center'><img src="images/rtl-logo.png" width="236"></p>
 
-<p align="center"><img src="images/gitflowdesign.png"></p>
+## What is RTL?
+RTL (Ride The Lightning) is a full function, device agnostic, web user interface to help manage lightning node operations.RTL is available on LND and C-Lightning implementations.
 
-**Gitflow Design** is a git workflow based on the popular gitflow by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/), but adapted to a design process.
+Visit the development repository [ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL) for more information.  
+Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announcements.
 
-We hope that with this workflow, design can now live side by side with development in git and take advantage of its versioning control capabilities that developers have been enjoying for years, but really missed by designers, and maybe we can finally end the `final_final_final.skech`.
+## RTL-Design
+This is the GitHub repository for the design work stream of RTL. It exists as a way to  mitigate an issue commonly found in FOSS projects, where the design work happens on an ad hoc basis by contributors, most of the times using proprietary software and files which are not accessible to all, and that are not stored in a common place, so as contributors come and go from the project these can get lost.
 
-Hopefully this is the first step to streamline collaboration between development and design, making it easy for people to contribute to open source projects, where usually the design process happens outside git and its not tracked.
+By using git we make sure that all the work and decisions are tracked over time, that the files are stored and available to everyone in a common place and with the added bonus that the design and dev repositories can now be tied together streamlining the work process and increasing collaboration between developers and designers and if that is not enough, by doing all of this in git, now the design work will also  be control versioned by default ( 🤯) albeit with some caveats that will be explained bellow.
 
-This is very much a proof of concept and work in progress, but if you have any feedback feel free to get in touch.
+For all this to function as intended, there's a workflow in place that needs to be followed by contributors. Its based on the popular [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) (Gitflow) by [Vincent Driessen](https://nvie.com/about/), but adapted to a design process.
 
-## Getting Started
-To start contributing to the design of RTL please follow the steps bellow.
+## Gitflow ❤️ Design
+Gitflow design as mentioned above is a git workflow for designers and design work. Its meant to be open, platform agnostic and help minimise dependencies on proprietary design software and increase collaboration.
 
-### Prerequisites
-You will need the following setup on your machine.
-1. Git - https://git-scm.com/
-2. Github Account - https://github.com
+With git at the heart of everything, we get to take advantage of a lot state of the art features in project management/development, such as controlled access, review process, feedback systems,  version control, preview changes in context, side-by-side Diffs, detailed history of changes and more. Something that developers had available for years, but that designers never took advantage off.
 
-#### Installing git on macOS:
-There are several ways to install Git on a Mac. The easiest is probably to install the Xcode Command Line Tools. On Mavericks (10.9) or above you can do this simply by trying to run git from the Terminal the very first time.
+#### Workflow
 
-```bash
-$ git --version
-```
-If you don’t have it installed already, it will prompt you to install it.
+<p align="left"><img src="images/gitflowdesigndiagram.png" width="90%"></p>
 
-### How to Start
+##### Main Branches
+* master
+* design
 
-#### Setting up git
-In order to start you will have to follow the steps bellow in the command line. If you are not familiar with Terminal, please have a look at this quick introduction by [Introduction to the Mac OS X Command Line](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) by Jim Hoskins @ Treehouse.
+The **master** branch is where you can find all the signed off work ready for implementation. This means the work you encounter there has been discussed, reviewed and accepted for development.
 
-```bash
-# First clone this repository.
-$ git clone https://github.com/diogorsergio/RTL-Design.git
+The **design** branch is where the **feature** branches come together in order to be reviewed before being accepted and ready to be merged to **master**.
 
-# Go into its directory.
-$ cd RTL-Design
+##### Supporting Branches
 
-# You're now in the master branch, so let's switch to the design branch.
-$ git checkout -b design master
-```
+* ux/feature
+* ui/feature
 
-In the design branch, if you want to start working on a new feature you will have to create a new sub-branch for it. You can do this by following the step bellow.
-```bash
-# Replace feature1 with the name of the feature e.g., ux/dashboard
-$ git checkout -b ux/feature1 design
-```
+Feature branches have two separate work streams one for UX and one UI and are named accordingly. Ideally they follow a certain order in the workflow.
 
-#### Folder Structure
+As an example we might have an upcoming feature named **helpsystem**, with this, a UX feature branch should be created and named **ux/helpsystem** and this where the user experience work will be done. When the UX is finalised and ready for review, the branch will be pushed and a pull request created to merge it to **design**, this is where the review process takes place. If no problem arises, the **ux/helpsystem** pull request is accepted and the branch merged into design.
 
-This is the folder structure being used to keep things organised and manageable for all of us. Follow it.
+At this point the feature is ready to progress  into UI design. If it's picked up a new feature branch shall be created and named **ui/helpsystem** and the UI work can start. When the UI work is finalised the UI branch will follow the same steps as the UX counterpart and should be pushed and a pull request created to start the review process and merge it to **design**.
 
-<img src="images/folderstructure.png" width="700">
+At this point if everything went to plan and the work reviewed and accepted we have both the **ux/helpsystem** and **ui/helpsystem** branches merged in **design**, so now the last step before being ready for development, is to create pull request in order to merge **design** into the **master** branch.
 
-Inside RTL-Design you will find two main folders for the design work. They are based on the lightning implementations available in RTL `lnd` and `clightning` even though they might share designs the folders are separate.
+Well this is gist of it, and there is a lot more to it, but this is the foundation, we will explain further concepts further down.
 
-Once you choose an implementation to work on, within its main folder you can find feature folders e.g., `dashboard`, `onchain`, `lightning` that contain the design work for the said features, you can either work on those, or start working on a new feature by creating it's folder.
-
-**Feature Folder Contents**
-
-`ui` - Visual design  
-`ux` - User experience design  
-`exports` - High resolution .pngs of the artboards  
-`source` - Editable files e.g., .sketch, .psd, .svg, .xcf
-
-
-#### File Formats
-To keep the design workflow accessible to all, we are using open file formats that can also be tracked within git. You can use proprietary formats but always keep a copy in an open file format such as **.SVG** in the `source` folder.
-
-##### Sketch App
->With the launch of Sketch v43, the **.sketch** file format is now open, which means it can now be tracked within git. To see how you can use this file format please check this [.sketch workflow](https://github.com/diogorsergio/RTL-Design/blob/master/sketchflow.md) for RTL-Design.
-
-
-#### Committing your changes
-As you start to work on your designs, you can commit your changes to your local branch e.g., `ux/feature1` so you can later push them for review.
-
-```bash
-# Navigate to the RTL-Design folder.
-$ cd RTL-Design
-
-# Add the files to commit.
-$ git add .
-
-# Commit the files to push. Use this format for the message "[UX] - Feature1 / Notes".
-$ git commit -m "[UX] - Feature1 / Layout Exploration"
-
-# Rinse and repeat as you like.
-```
-
-#### Submitting your work for review
-When you are ready to have your work reviewed, you will have to push your changes to the remote branch so everyone can see them and create a `pull request` to start the review process.
-
-```bash
-# Push your local branch to github so everyone can see it.
-$ git push -u origin ux/feature1
-```
-The output will be something like this:
-```bash
-remote: Create a pull request for 'ux/feature1' on GitHub by visiting:
-remote: https://github.com/diogorsergio/RTL-Design/pull/new/ux/feature1
-```
-Now you just have to open the link on your browser and open your `pull request`.
-
-#### Open a pull request
-On your browser you will have the `pull request` interface which is pretty self-explanatory. Things to keep in mind is you want to select the `design` branch into the `base:`  and your feature branch onto the `compare:`
-
-<img src="images/pullrequest.png" width="700">
-
-Write a short description of the work you've done and anything else you think its worth mentioning, and when you're done click `Create pull request` and thats it!
-
-Now you just have to wait until someone reviews it.
+## Contributing
+👍🎉 First off, thanks for taking the time to contribute! 🎉👍
