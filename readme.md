@@ -125,35 +125,35 @@ Launch the Github Desktop app and click to `Clone a repository from the Internet
 Enter the RTL-Design repository URL or username/repo:  `diogorsergio/RTL-Design`
 <p><img src="images/guide/Flow02.png" width="70%"></p><br>
 
-##### Step D3 - Design Branch
+##### Step D3 - Design Branch
 Switch from the **master** branch to **design**.  
 <p><img src="images/guide/Flow03.png" width="70%"></p><br>
 
-##### Step D4 - Feature Branches  
+##### Step D4 - Feature Branches
 Create a new feature branch based on the **design** branch. There are two types of prefix for feature branches **ux/** and **ui/** and these are based on the type of work to be done. Prefixes should be followed by the feature name e.g.: **ux/lightning**.
 <p><img src="images/guide/Flow04.png" width="70%"></p><br>
 
-##### Step D5 - Do the work   
+##### Step D5 - Do the work
 At this point you are ready to start working, but please make sure you follow the correct folder structure when creating your files.
 <p><img src="images/guide/Flow05.png" width="70%"></p><br>
 
-##### Step D6 - Commit the Changes  
+##### Step D6 - Commit the Changes
 When you finish a design iteration and are ready to show it to gather feedback, you will have to **commit** the changes you just made so they can be pushed to github for everyone to see. Commit titles should start with **[UX]** or **[UI]** accordingly to the work they include and a couple words describing the scope of the work. The **description** field is optional.  
  <p><img src="images/guide/Flow06.png" width="70%"></p><br>
 
-##### Step D7 - Push Changes to Github  
+##### Step D7 - Push Changes to Github
  Once your changes are committed, they are still local and not available in github, to make them available for everyone you will have to **publish** this branch.
  <p><img src="images/guide/Flow07.png" width="70%"></p><br>
 
-##### Step D8 - Do more work  
+##### Step D8 - Do more work
 If your work still isn't finished, you can continue to work on your local files and do more changes, and these will be added for the next commit. At this point you can also take advantage of the Diff visualiser and check the differences between the current commit and the branch, and if everything seems okay, you can **commit** the changes and **push** them afterwards as you've done before.
 <p><img src="images/guide/Flow08.png" width="70%"></p><br>
 
-##### Step D9 - Push and Pull Request  
+##### Step D9 - Push and Pull Request
 The changes are now pushed and available for everyone to see in github, so the last step is to get them reviewed by the design team. In order to do this, you will have to create a **pull request**
 <p><img src="images/guide/Flow09.png" width="70%"></p><br>
 
-##### Step D10 - Pull Request  
+##### Step D10 - Pull Request
 This will open github on your browser and show the **pull request** interface. Select **design** as the base, the title should have the prefix of the work done **[UX/UI]** and write a description about the work included. Anything that will help reviewers.
 <p><img src="images/guide/Flow10.png" width="70%"></p><br>
 
