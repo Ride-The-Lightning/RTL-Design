@@ -53,6 +53,28 @@ We are still experimenting with it, so if you have any suggestions on how to imp
 
 
 ### Table of contents
+* [Software Recommendations](#software-recommendations)
+* [Prerequisites](#prerequisites)
+* [Getting Started](#getting-started)
+ * [Github Desktop Application](#github-desktop-application)
+   *  [Step 1 - First Launch](#step-D1---first-launch)
+   *  [Step 2 - Clone the Repo](#step-D2---clone-the-repo)
+   *  [Step 3 - Design Branch](#step-D3---design-branch)
+   *  [Step 4 - Feature Branches](#step-D4---feature-branches)
+   *  [Step 5 - Do the Work](#step-D5---do-the-work)
+   *  [Step 6 - Commit the Changes](#step-D6---commit-the-changes)
+   *  [Step 7 - Push Changes to Github](#step-D7---push-changes-to-github)
+   *  [Step 8 - Do More Work](#step-D8---do-more-work)
+   *  [Step 9 - Push and Pull Request](#step-D9---push-and-pull-request)
+   *  [Step 10 - Pull Request](#step-D10---pull-request)
+ * [Terminal](#terminal)
+   * [Step 1 - Clone the Repo](#step-t1---clone-the-repo)
+   * [Step 2 - Switch to Design Branch](#step-t2---switch-to-design-branch)
+   * [Step 3 - Create Feature Branch](#step-t3---create-feature-branch)
+   * [Step 4 - Do The Work](#step-t4---do-the-work)
+   * [Step 5 - Add and Commit Changes](#step-t5---add-and-commit-changes)
+   * [Step 6 - Push Changes to Github](#step-t6---push-changes-to-github)
+   * [Step 7 - Pull Request](#step-t7---pull-request)
 
 #### Software Recommendations
 We want to keep the workflow open to anyone who wants to contribute, so we are trying to focus on using open file formats that can be easily accessible by others and are not dependant on proprietary software.
@@ -68,51 +90,133 @@ The step by step guide will be shown using the Github Desktop App and also via t
 * [Github Desktop App](https://desktop.github.com)
 * [Git for Command Line](https://git-scm.com/) (Optional if you want to use the terminal)
 
+#### Folder structure
+This is the folder structure being used to keep things organised and manageable for all of us. When you are ready to start working on a feature and you've cloned the repo, you will have to create a folder for the said feature in the directory and that will depend on what implementation it is for, **lnd** or **cligtning** and name the folder after the feature.
+
+**ui** - User interface design work.  
+**ux** - User experience design work.
+
+Inside these you will find:  
+
+**exports** - Separate PNGs exports of your artboards.  
+**source** - Editable files in open file formats, but also include the proprietary if available.
+
+Inside **source** create folders named after the file extension. Examples bellow.
+
+ux - **svg** / **sketch**  
+ui - **xcf** / **psd**
+
+<img src="images/folderstructure_empty.png" width="80%">
+
 #### Getting started
 
 This step by step guide will walk you through the basics of **Gitflow Design** in **10 easy steps**.   
 
 It will cover, cloning the RTL-Design repo, creating a new feature branch, pushing your changes to github and creating a pull request to get your work reviewed. All this is shown  through both the desktop application and via terminal.
 
-##### Github Desktop application
+#### Github Desktop application
+If you're not familiar with the terminal or command line applications, the Github Desktop application is the perfect solution. It works perfectly out of the box and makes interacting with git a lot easier.
 
-
-**Step 1 - First Launch**   
+##### Step D1 - First Launch
 Launch the Github Desktop app and click to `Clone a repository from the Internet`
-<p><img src="images/guide/Flow01.png"></p><br>
+<p><img src="images/guide/Flow01.png" width="70%"></p><br>
 
-**Step 2 - Clone the Repo**   
+##### Step D2 - Clone the Repo
 Enter the RTL-Design repository URL or username/repo:  `diogorsergio/RTL-Design`
-<p><img src="images/guide/Flow02.png"></p><br>
+<p><img src="images/guide/Flow02.png" width="70%"></p><br>
 
-**Step 3 - Design Branch**  
+##### Step D3 - Design Branch
 Switch from the **master** branch to **design**.  
-<p><img src="images/guide/Flow03.png"></p><br>
+<p><img src="images/guide/Flow03.png" width="70%"></p><br>
 
-**Step 4 - Feature Branches**  
+##### Step D4 - Feature Branches  
 Create a new feature branch based on the **design** branch. There are two types of prefix for feature branches **ux/** and **ui/** and these are based on the type of work to be done. Prefixes should be followed by the feature name e.g.: **ux/lightning**.
-<p><img src="images/guide/Flow04.png"></p><br>
+<p><img src="images/guide/Flow04.png" width="70%"></p><br>
 
-**Step 5 - Do the work!**  
+##### Step D5 - Do the work   
 At this point you are ready to start working, but please make sure you follow the correct folder structure when creating your files.
-<p><img src="images/guide/Flow05.png"></p><br>
+<p><img src="images/guide/Flow05.png" width="70%"></p><br>
 
-**Step 6 - Commit the Changes**  
+##### Step D6 - Commit the Changes  
 When you finish a design iteration and are ready to show it to gather feedback, you will have to **commit** the changes you just made so they can be pushed to github for everyone to see. Commit titles should start with **[UX]** or **[UI]** accordingly to the work they include and a couple words describing the scope of the work. The **description** field is optional.  
- <p><img src="images/guide/Flow06.png"></p><br>
+ <p><img src="images/guide/Flow06.png" width="70%"></p><br>
 
- **Step 7 - Push Changes to Github**  
- Once your changes are commited, they are still local and not available in github, to make them available for everyone you will have to **publish** this branch.
- <p><img src="images/guide/Flow07.png"></p><br>
+##### Step D7 - Push Changes to Github  
+ Once your changes are committed, they are still local and not available in github, to make them available for everyone you will have to **publish** this branch.
+ <p><img src="images/guide/Flow07.png" width="70%"></p><br>
 
-**Step 8 - Do more work!**  
+##### Step D8 - Do more work  
 If your work still isn't finished, you can continue to work on your local files and do more changes, and these will be added for the next commit. At this point you can also take advantage of the Diff visualiser and check the differences between the current commit and the branch, and if everything seems okay, you can **commit** the changes and **push** them afterwards as you've done before.
-<p><img src="images/guide/Flow08.png"></p><br>
+<p><img src="images/guide/Flow08.png" width="70%"></p><br>
 
-**Step 9 - Push and Pull Request**  
-The changes are now pushed and available for everyone to see in github, so the last step is to get them reviewed by the design team, in order to do this, you will have to create a **pull request**
-<p><img src="images/guide/Flow09.png"></p><br>
+##### Step D9 - Push and Pull Request  
+The changes are now pushed and available for everyone to see in github, so the last step is to get them reviewed by the design team. In order to do this, you will have to create a **pull request**
+<p><img src="images/guide/Flow09.png" width="70%"></p><br>
 
-**Step 10 - Pull Request**  
+##### Step D10 - Pull Request  
 This will open github on your browser and show the **pull request** interface. Select **design** as the base, the title should have the prefix of the work done **[UX/UI]** and write a description about the work included. Anything that will help reviewers.
-<p><img src="images/guide/Flow10.png"></p><br>
+<p><img src="images/guide/Flow10.png" width="70%"></p><br>
+
+#### Terminal
+If you're quite comfortable with command line applications and prefer to interact with git that way, then this will give you an overview on how to do it.  
+
+##### Step T1 - Clone the repo
+
+```bash
+# Open the directory to where you want to download the repository.
+$ cd ~Documents
+
+# Clone the repository.
+$ git clone https://github.com/diogorsergio/RTL-Design.git
+
+# Go into its directory.
+$ cd RTL-Design
+```
+##### Step T2 - Switch to Design Branch
+```bash
+# You're now in the master branch, so let's switch to the design branch.
+$ git checkout design
+```
+
+##### Step T3 - Create Feature Branch
+```bash
+# Always create feature branches based on design. Use prefixes accordingly ux/ or ui/.
+# Name should follow prefix/featurename.
+$ git checkout -b ux/lightning design
+```
+##### Step T4 - Do The Work
+```bash
+# At this point you are ready to start working.
+# Make sure you follow the correct folder structure when creating your files.
+
+# Check the status of the current branch, after working on it.
+$ git status
+```
+##### Step T5 - Add and Commit Changes
+When you finish a design iteration and are ready to show it to gather feedback, you will have to **commit** the changes you just made so they can be pushed to github for everyone to see. Commit titles should start with **[UX]** or **[UI]** accordingly to the work they include and a couple words describing the scope of the work.
+```bash
+# First you need to add the changes, you have just made.
+# -A stands for --All.
+$ git add -A
+
+# Now that the files are added, you can commit them.
+# The title should include the prefix followed by the scope of the work.
+$ git commit -m '[UX] - Lightning Transactions'
+```
+##### Step T6 - Push Changes to Github
+Once your changes are committed, they are still local and not available in github, to make them available for everyone you will have to push to publish this branch.
+```bash
+# You have to push them up-stream (-u) to origin
+$ git push -u origin ux/lightning
+```
+
+##### Step T7 - Pull Request
+The changes are now pushed and available for everyone to see in github, so the last step is to get them reviewed by the design team. In order to do this, you will have to create a **pull request**.
+```bash
+# When you pushed the commit the output should have been something similar to this.
+
+remote: Create a pull request for 'ux/lightning' on GitHub by visiting:
+remote: https://github.com/diogorsergio/RTL-Design/pull/new/ux/lightning
+
+# You can just open the URL and it will open the Github with the Pull Request interface on it.
+```
