@@ -16,7 +16,7 @@ For all this to function as intended, there's a workflow in place that needs to 
 ## Gitflow ❤️ Design
 Gitflow design as mentioned above is a git workflow for designers and design work. Its meant to be open, platform agnostic and help minimise dependencies on proprietary design software and increase collaboration.
 
-With git at the heart of everything, we get to take advantage of a lot state of the art features in project management/development, such as controlled access, review process, feedback systems,  version control, preview changes in context, side-by-side Diffs, detailed history of changes and more. Something that developers had available for years, but that designers never took advantage off.
+With git behind everything, we get to take advantage of useful features in project management/development, such as controlled access, review process, feedback systems,  version control, preview changes in context, side-by-side Diffs, detailed history of changes and more. Something that developers had available for years, but that designers never took advantage off.
 
 ### Workflow
 
@@ -91,25 +91,26 @@ The step by step guide will be shown using the Github Desktop App and also via t
 * [Git for Command Line](https://git-scm.com/) (Optional if you want to use the terminal)
 
 ### Folder structure
-This is the folder structure being used to keep things organised and manageable for all of us. When you are ready to start working on a feature and you've cloned the repo, you will have to create a folder for the said feature in the directory and that will depend on what implementation it is for, **lnd** or **cligtning** and name the folder after the feature.
+This is the folder structure being used to keep things organised and manageable for all of us. When you are ready to start working on a feature and you've cloned the repo, you will have to create a folder for the said feature in the directory and that will depend on what implementation it is for, **lnd** or **cligtning** and name the folder after the feature e.g.: RTL-Design/lnd/**helpsystem**
 
+Feature folders should include:   
 **ui** - User interface design work.  
 **ux** - User experience design work.
 
-Inside these you will find:  
-
+Inside these you will find:   
 **exports** - Separate PNGs exports of your artboards.  
 **source** - Editable files in open file formats, but also include the proprietary if available.
 
-Inside **source** create folders named after the file extension. Examples bellow.
-
+Inside **source** create folders named after the file extensions being used. Examples bellow.  
 ux - **svg** / **sketch**  
 ui - **xcf** / **psd**
+
+When using proprietary software, always export the artboards to an open file format such as .svg so that others can access your work.
 
 <img src="images/folderstructure_empty.png" width="80%">
 
 ### Getting started
-This step by step guide will walk you through the basics of **Gitflow Design** in **10 easy steps**.   
+This step by step guide will walk you through the basics of **Gitflow Design**.   
 
 It will cover, cloning the RTL-Design repo, creating a new feature branch, pushing your changes to github and creating a pull request to get your work reviewed. All this is shown  through both the desktop application and via terminal.
 
