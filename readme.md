@@ -55,6 +55,8 @@ We are still experimenting with it, so if you have any suggestions on how to imp
 ### Table of contents
 * [Software Recommendations](#software-recommendations)
 * [Prerequisites](#prerequisites)
+* [Folder Structure](#folder-structure)
+* [Proprietary Files](#proprietary-files)
 * [Getting Started](#getting-started)
  * [Github Desktop Application](#github-desktop-application)
    *  [Step 1 - First Launch](#step-1---first-launch)
@@ -105,9 +107,13 @@ Inside **source** create folders named after the file extensions being used. Exa
 ux - **svg** / **sketch**  
 ui - **xcf** / **psd**
 
-When using proprietary software, always export the artboards to an open file format such as .svg so that others can access your work.
+When using proprietary software to contribue, please make sure you always keep copies of the editable file in open file formats. For example if you use Sketch, keep the .sketch file in the source, but also export all your artboards into separate **.svg** files.
 
-<img src="images/folderstructure_empty.png" width="80%">
+<img src="images/folderstructure_example.png" width="80%">
+
+### Versioning Control Design Work
+
+**Sketch** 43, Introduced a new open file format where .sketch documents are now stored as .ZIP archives containing .JSON files and what that allows us is to use git to keep track of changes made to the files. The .sketch file in itself isn't ready out of the box to be versioned in git, so there is a bit of a manual process in order to make it work read more about it here [sketchflow.md](/sketchflow.md).
 
 ### Getting started
 This step by step guide will walk you through the basics of **Gitflow Design**.   
