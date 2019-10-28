@@ -6,6 +6,27 @@ RTL (Ride The Lightning) is a full function, device agnostic, web user interface
 Visit the development repository [ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL) for more information.  
 Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announcements.
 
+## Table of contents
+* [RTL-Design](#rtl-design)
+* [Gitflow ❤️ Design](#gitflow-%EF%B8%8F-design)
+ * [Workflow](#workflow)
+ * [Main Branches](#main-branches)
+ * [Supporting Branches](#supporting-branches)
+* [Contributing](#contributing)
+ * [Software Recommendations](#software-recommendations)
+ * [Prerequisites](#prerequisites)
+ * [Folder Structure](#folder-structure)
+ * [Versioning Control Design Work](#versioning-control-design-work)
+   * [Sketch](#sketch)
+ * [Proprietary Files](#proprietary-files)
+ * [Getting Started](#getting-started)
+   * [Github Desktop Application](#github-desktop-application)
+   * [Terminal](#terminal)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+* [License](#license)
+
+
 ## RTL-Design
 This is the GitHub repository for the design work stream of RTL. It exists as a way to  mitigate an issue commonly found in FOSS projects, where the design work happens on an ad hoc basis by contributors, most of the times using proprietary software and files which are not accessible to all, and that are not stored in a common place, so as contributors come and go from the project these can get lost.
 
@@ -51,33 +72,6 @@ First things first, thanks for showing interest in contributing! 🙌
 Bellow you can find a step by step guide on how to contribute to RTL and follow the **gitflow design** workflow.  
 We are still experimenting with it, so if you have any suggestions on how to improve it, please get in touch!
 
-
-### Table of contents
-* [Software Recommendations](#software-recommendations)
-* [Prerequisites](#prerequisites)
-* [Folder Structure](#folder-structure)
-* [Proprietary Files](#proprietary-files)
-* [Getting Started](#getting-started)
- * [Github Desktop Application](#github-desktop-application)
-   *  [Step 1 - First Launch](#step-1---first-launch)
-   *  [Step 2 - Clone the Repo](#step-2---clone-the-repo)
-   *  [Step 3 - Design Branch](#step-3---design-branch)
-   *  [Step 4 - Feature Branches](#step-4---feature-branches)
-   *  [Step 5 - Do the Work](#step-5---do-the-work)
-   *  [Step 6 - Commit the Changes](#step-6---commit-the-changes)
-   *  [Step 7 - Push Changes to Github](#step-7---push-changes-to-github)
-   *  [Step 8 - Do More Work](#step-8---do-more-work)
-   *  [Step 9 - Push and Pull Request](#step-9---push-and-pull-request)
-   *  [Step 10 - Pull Request](#step-10---pull-request)
- * [Terminal](#terminal)
-   * [Step 1 - Clone the Repo](#step-1---clone-the-repo-2)
-   * [Step 2 - Switch to Design Branch](#step-2---switch-to-design-branch)
-   * [Step 3 - Create Feature Branch](#step-3---create-feature-branch)
-   * [Step 4 - Do The Work](#step-4---do-the-work-2)
-   * [Step 5 - Add and Commit Changes](#step-5---add-and-commit-changes)
-   * [Step 6 - Push Changes to Github](#step-6---push-changes-to-github-2)
-   * [Step 7 - Pull Request](#step-7---pull-request-2)
-
 ### Software Recommendations
 We want to keep the workflow open to anyone who wants to contribute, so we are trying to focus on using open file formats that can be easily accessible by others and are not dependant on proprietary software.
 
@@ -113,7 +107,8 @@ When using proprietary software to contribue, please make sure you always keep c
 
 ### Versioning Control Design Work
 
-**Sketch** 43, Introduced a new open file format where .sketch documents are now stored as .ZIP archives containing .JSON files and what that allows us is to use git to keep track of changes made to the files. The .sketch file in itself isn't ready out of the box to be versioned in git, so there is a bit of a manual process in order to make it work read more about it here [sketchflow.md](/sketchflow.md).
+#### Sketch
+Sketch 43, Introduced a new open file format where .sketch documents are now stored as .ZIP archives containing .JSON files and what that allows us is to use git to keep track of changes made to the files. The .sketch file in itself isn't ready out of the box to be versioned in git, so there is a bit of a manual process in order to make it work read more about it here [sketchflow.md](/sketchflow.md).
 
 ### Getting started
 This step by step guide will walk you through the basics of **Gitflow Design**.   
@@ -242,10 +237,12 @@ remote: Create a pull request for 'ux/lightning' on GitHub by visiting:
 remote: https://github.com/diogorsergio/RTL-Design/pull/new/ux/lightning
 
 # You can just open the URL and it will open the Github with the Pull Request interface on it.
+
 ```
+
 ## Contact
-Twitter: [@diogorsergio](https://twitter.com/diogorsergio)  
-IRC: #rtl-dev on [freenode.net](https://freenode.net)
+* Twitter: [@diogorsergio](https://twitter.com/diogorsergio)  
+* IRC: #rtl-dev on [freenode.net](https://freenode.net)
 
 ## Acknowledgements
 * A successful Git branching model by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)  
