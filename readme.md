@@ -1,7 +1,7 @@
 <p align='center'><img src="images/rtl-logo.png" width="236"></p>
 
 ## What is RTL?
-RTL (Ride The Lightning) is a full function, device agnostic, web user interface to help manage lightning node operations.RTL is available on LND and C-Lightning implementations.
+RTL (Ride The Lightning) is a full function, device agnostic, web user interface to help manage lightning node operations. RTL is available on LND and C-Lightning implementations.
 
 Visit the development repository [ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL) for more information.  
 Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announcements.
@@ -28,16 +28,16 @@ Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announce
 
 
 ## RTL-Design
-This is the GitHub repository for the design work stream of RTL. It exists as a way to  mitigate an issue commonly found in FOSS projects, where the design work happens on an ad hoc basis by contributors, most of the times using proprietary software and files which are not accessible to all, and that are not stored in a common place, so as contributors come and go from the project these can get lost.
+This is the GitHub repository for the design work stream of RTL. It exists as a way to  mitigate an issue commonly found in free open-source software projects, where the design work happens on an ad hoc basis by contributors, most of the times using proprietary software and files which are not accessible to all and that are not stored in a common place, so as contributors come and go from the project these can get lost.
 
-By using git we make sure that all the work and decisions are tracked over time, that the files are stored and available to everyone in a common place and with the added bonus that the design and dev repositories can now be tied together streamlining the work process and increasing collaboration between developers and designers and if that is not enough, by doing all of this in git, now the design work will also  be control versioned by default ( 🤯) albeit with some caveats that will be explained bellow.
+By using git we make sure that all the work and decisions are tracked over time, that the files are stored and available to everyone in a common place and with the added bonus that the design and development repositories can now be tied together streamlining the work process and increasing collaboration between designers and developers, and if that is not enough, by doing all of this in git, now the design work can also be control versioned 🤯.
 
 For all this to function as intended, there's a workflow in place that needs to be followed by contributors. Its based on the popular [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) (Gitflow) by [Vincent Driessen](https://nvie.com/about/), but adapted to a design process.
 
 ## Gitflow ❤️ Design
 Gitflow design as mentioned above is a git workflow for designers and design work. Its meant to be open, platform agnostic and help minimise dependencies on proprietary design software and increase collaboration.
 
-With git behind everything, we get to take advantage of useful features in project management/development, such as controlled access, review process, feedback systems,  version control, preview changes in context, side-by-side Diffs, detailed history of changes and more. Something that developers had available for years, but that designers never took advantage off.
+By using git, as mentioned above, we get to take advantage of a lot of useful features in project management/development, such as controlled access, review process, feedback systems,  version control, preview changes in context, side-by-side Diffs, detailed history of changes and more. Something that developers had available for years, but that designers never took advantage off.
 
 ### Workflow
 
@@ -165,7 +165,7 @@ The changes are now pushed and available for everyone to see in github, so the l
 
 #### Step 10 - Pull Request
 
-This will open github on your browser and show the **pull request** interface. Select **design** as the base, the title should have the prefix of the work done **[UX/UI]** and write a description about the work included. Anything that will help reviewers.
+This will open github on your browser and show the **pull request** interface. Select **design** as the base, the title should have the prefix of the work done **[UX], [UI]** or **[UX/UI]** and write a description about the work included. Anything that will help reviewers.
 <p><img src="images/guide/Flow10.png" width="70%"></p><br>
 
 ### Terminal - Step by Step Guide
