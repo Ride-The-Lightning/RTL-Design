@@ -243,3 +243,14 @@ remote: https://github.com/diogorsergio/RTL-Design/pull/new/ux/lightning
 
 # You can just open the URL and it will open the Github with the Pull Request interface on it.
 ```
+## Contact
+Twitter: [@diogorsergio](https://twitter.com/diogorsergio)  
+IRC: #rtl-dev on [freenode.net](https://freenode.net)
+
+## Acknowledgements
+* A successful Git branching model by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)  
+* Designers Git-It; A unified design system workflow by  [Stephen Hathaway](https://www.youtube.com/watch?v=A-lNv6Szu3M)
+
+## License
+
+Distributed under the MIT License. See [LICENSE](/LICENSE.md) for more information.
