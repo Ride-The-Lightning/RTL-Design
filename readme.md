@@ -10,6 +10,7 @@ Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announce
  * [Workflow](#workflow)
  * [Main Branches](#main-branches)
  * [Supporting Branches](#supporting-branches)
+ * [Future Work](#future-work)
 * [Contributing](#contributing)
  * [Software Recommendations](#software-recommendations)
  * [Prerequisites](#prerequisites)
@@ -63,6 +64,19 @@ At this point the feature is ready to progress  into UI design. If it's picked u
 At this point if everything went to plan and the work reviewed and accepted we have both the **ux/helpsystem** and **ui/helpsystem** branches merged in **design**, so now the last step before being ready for development, is to create pull request in order to merge **design** into the **master** branch.
 
 Well this is gist of it, and there is a lot more to it, but this is the foundation, we will explain further concepts further down.
+
+## Future Work
+
+Couple of ideas for future improvements with the goal of having everything within github and publicly accessible.  
+
+* Look into Github LFS (Large File Storage) for big binary files.
+* How can shared/master components work within this workflow?
+* Github Pages to host:
+  * Design System
+  * Exports Gallery/Showcase
+  * Handoff specs for developers? (Zeplin/Sketch Measure)
+
+If you have any ideas on how to solve any of these, please get in touch! 👍
 
 ## Contributing
 First things first, thanks for showing interest in contributing! 🙌
