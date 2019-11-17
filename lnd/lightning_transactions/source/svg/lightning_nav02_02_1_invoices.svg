@@ -85,21 +85,21 @@
                 <tspan x="24" y="47">Invoices History</tspan>
             </text>
             <path d="M5.1277704,64.0985477 C3.5776195,64.0985477 2.94057806,64.2215661 2.28210802,64.5737197 C1.71739041,64.875734 1.27718629,65.3159381 0.975172007,65.8806557 C0.623018378,66.5391258 0.5,67.1761672 0.5,68.7263181 L0.5,367.270777 C0.5,368.820928 0.623018378,369.45797 0.975172007,370.11644 C1.27718629,370.681157 1.71739041,371.121361 2.28210802,371.423376 C2.94057806,371.775529 3.5776195,371.898548 5.1277704,371.898548 L960.87223,371.898548 C962.42238,371.898548 963.059422,371.775529 963.717892,371.423376 C964.28261,371.121361 964.722814,370.681157 965.024828,370.11644 C965.376982,369.45797 965.5,368.820928 965.5,367.270777 L965.5,68.7263181 C965.5,67.1761672 965.376982,66.5391258 965.024828,65.8806557 C964.722814,65.3159381 964.28261,64.875734 963.717892,64.5737197 C963.059422,64.2215661 962.42238,64.0985477 960.87223,64.0985477 L5.1277704,64.0985477 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
-            <g id="Group-5" transform="translate(45.000000, 85.000000)" font-size="14">
+            <g id="Group-5" transform="translate(18.000000, 85.000000)" font-size="14">
                 <text id="Date-Created" font-family="Roboto-Medium, Roboto" font-weight="400" letter-spacing="0.5" fill="#000000">
                     <tspan x="0" y="13">Date Created</tspan>
                 </text>
                 <text id="04/SET/2019-08:00" font-family="Roboto-Regular, Roboto" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
-                    <tspan x="0" y="63">04/SET/2019 08:00</tspan>
+                    <tspan x="21" y="67">04/SET/2019 08:00</tspan>
                 </text>
                 <text id="04/SET/2019-08:00" font-family="Roboto-Regular, Roboto" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
-                    <tspan x="0" y="115">04/SET/2019 08:00</tspan>
+                    <tspan x="21" y="115">04/SET/2019 08:00</tspan>
                 </text>
                 <text id="04/SET/2019-08:00" font-family="Roboto-Regular, Roboto" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
-                    <tspan x="0" y="170">04/SET/2019 08:00</tspan>
+                    <tspan x="21" y="171">04/SET/2019 08:00</tspan>
                 </text>
                 <text id="04/SET/2019-08:00" font-family="Roboto-Regular, Roboto" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
-                    <tspan x="0" y="219">04/SET/2019 08:00</tspan>
+                    <tspan x="21" y="217">04/SET/2019 08:00</tspan>
                 </text>
             </g>
             <g id="Group-28" transform="translate(17.000000, 140.000000)">
