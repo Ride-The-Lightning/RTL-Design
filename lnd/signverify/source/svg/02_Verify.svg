@@ -164,7 +164,7 @@
             <text id="Pubkey-Used" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" fill="#444444">
                 <tspan x="28.0235988" y="303">Pubkey Used</tspan>
             </text>
-            <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="26.5" y="314.5" width="970" height="35" rx="4"></rect>
+            <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FBFBFB" x="26.5" y="314.5" width="970" height="35" rx="4"></rect>
             <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="26.5" y="374.5" width="130" height="35" rx="4"></rect>
             <text id="Copy-Pubkey" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
                 <tspan x="51.8808594" y="397">Copy Pubkey</tspan>
