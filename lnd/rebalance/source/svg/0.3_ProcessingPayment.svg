@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1284px" height="1030px" viewBox="0 0 1284 1030" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>0.3_ProcessingPayment</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="91" width="218" height="939"></rect>
+        <filter x="-6.7%" y="-1.3%" width="113.3%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.508718297   0 0 0 0 0.508320861   0 0 0 0 0.508320861  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="38" width="1284" height="53"></rect>
+        <filter x="-0.8%" y="-15.1%" width="101.6%" height="137.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="122" height="36" rx="4"></rect>
+        <filter x="-3.3%" y="-5.6%" width="106.6%" height="122.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="10" cy="10" r="10"></circle>
+        <filter x="-10.0%" y="-5.0%" width="120.0%" height="120.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="595" height="401" rx="4"></rect>
+        <filter x="-7.4%" y="-10.7%" width="115.8%" height="123.4%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264450393 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="498" height="41"></rect>
+        <filter x="-1.9%" y="-20.7%" width="103.8%" height="146.3%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.591259058   0 0 0 0 0.591259058   0 0 0 0 0.591259058  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-13" x="0" y="0" width="498" height="41"></rect>
+        <filter x="-1.9%" y="-20.7%" width="103.8%" height="146.3%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.591259058   0 0 0 0 0.591259058   0 0 0 0 0.591259058  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="0.3_ProcessingPayment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#1D1E1F" x="0" y="0" width="1284" height="1030"></rect>
+        <rect id="Background" fill="#F2F5F6" x="0" y="38" width="1284" height="992"></rect>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Rectangle-13">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="#5E4EA5" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <g id="Browser">
+            <path d="M0,6.00024414 C0,2.68640081 2.6794487,0 5.99234946,0 L1278.00765,0 C1281.31713,0 1284,2.68722626 1284,6.00024414 L1284,38 L0,38 L0,6.00024414 Z" id="Tab-BG---Right" fill="#363738"></path>
+            <circle id="Dot---Red" fill="#FF5F57" cx="18" cy="19" r="6"></circle>
+            <circle id="Dot---Orange" fill="#FFBF2F" cx="38" cy="19" r="6"></circle>
+            <circle id="Dot---Green" fill="#28CA42" cx="58" cy="19" r="6"></circle>
+            <g id="Back" transform="translate(76.000000, 7.000000)">
+                <rect id="Rectangle" fill="#656668" x="0" y="0" width="28" height="24" rx="4"></rect>
+                <path d="M10.1607883,11.3246277 L15.780455,5.65901618 C15.9603839,5.47908726 16.2513057,5.47908726 16.4312347,5.65901618 L17.1891941,6.41697565 C17.3691231,6.59690457 17.3691231,6.88782642 17.1891941,7.06775535 L12.6528768,11.6500175 L17.1891941,16.2322797 C17.3691231,16.4122086 17.3691231,16.7031305 17.1891941,16.8830594 L16.4312347,17.6410189 C16.2513057,17.8209478 15.9603839,17.8209478 15.780455,17.6410189 L10.1607883,11.9754074 C9.98085942,11.7954785 9.98085942,11.5045566 10.1607883,11.3246277 Z" id="a" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="Forward" transform="translate(105.000000, 7.000000)">
+                <rect id="Rectangle" fill="#656668" x="0" y="0" width="28" height="24" rx="4"></rect>
+                <path d="M18.1891941,11.9754074 L12.5695275,17.6410189 C12.3895986,17.8209478 12.0986767,17.8209478 11.9187478,17.6410189 L11.1607883,16.8830594 C10.9808594,16.7031305 10.9808594,16.4122086 11.1607883,16.2322797 L15.6971057,11.6500175 L11.1607883,7.06775535 C10.9808594,6.88782642 10.9808594,6.59690457 11.1607883,6.41697565 L11.9187478,5.65901618 C12.0986767,5.47908726 12.3895986,5.47908726 12.5695275,5.65901618 L18.1891941,11.3246277 C18.3691231,11.5045566 18.3691231,11.7954785 18.1891941,11.9754074 Z" id="a" fill="#FFFFFF" fill-rule="nonzero" opacity="0.200334821"></path>
+            </g>
+            <g id="New-Tab" transform="translate(1260.000000, 14.000000)">
+                <rect id="Rectangle" fill="#292A2B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M16.2531029,11.6843877 C16.3618742,11.6843877 16.4499775,11.7724909 16.4499775,11.8812622 L16.4499775,12.6687603 C16.4499775,12.7775316 16.3618742,12.8656349 16.2531029,12.8656349 L12.3156123,12.8656349 L12.3156123,16.8031255 C12.3156123,16.9118967 12.2275091,17 12.1187378,17 L11.3312397,17 C11.2224684,17 11.1343651,16.9118967 11.1343651,16.8031255 L11.1343651,12.8656349 L7.19687453,12.8656349 C7.08810328,12.8656349 7,12.7775316 7,12.6687603 L7,11.8812622 C7,11.7724909 7.08810328,11.6843877 7.19687453,11.6843877 L11.1343651,11.6843877 L11.1343651,7.74689706 C11.1343651,7.63812581 11.2224684,7.55002253 11.3312397,7.55002253 L12.1187378,7.55002253 C12.2275091,7.55002253 12.3156123,7.63812581 12.3156123,7.74689706 L12.3156123,11.6843877 L16.2531029,11.6843877 Z" id="p" fill="#FFFFFF" fill-rule="nonzero" opacity="0.497907366"></path>
+            </g>
+            <g id="URL" transform="translate(378.000000, 7.000000)">
+                <path d="M0,3.99005301 C0,1.78640758 1.78094395,5.31029755e-14 3.99753941,5.28693238e-14 L516.002461,-1.1012102e-15 C518.210241,-1.33393271e-15 520,1.78429328 520,3.99005301 L520,20.009947 C520,22.2135924 518.219056,24 516.002461,24 L3.99753941,24 C1.78975936,24 0,22.2157067 0,20.009947 L0,3.99005301 Z" id="URL-Bar" fill="#696A6B"></path>
+                <path d="M512.304658,5.17186422 C512.467743,5.17186422 512.59997,5.30412783 512.59997,5.46721261 L512.59997,10.1922013 C512.59997,10.3552861 512.467743,10.4875131 512.304658,10.4875131 L507.579669,10.4875131 C507.416585,10.4875131 507.284358,10.3552861 507.284358,10.1922013 L507.284358,9.51027815 C507.284358,9.34440559 507.42091,9.21109712 507.586711,9.21503845 L510.69705,9.2890827 C509.940722,7.61516854 508.257531,6.45158527 506.299985,6.45158527 C503.633864,6.45158527 501.476559,8.60927437 501.476559,11.2750113 C501.476559,13.9411327 503.634248,16.0984373 506.299985,16.0984373 C507.533046,16.0984373 508.65724,15.6369165 509.509554,14.8770557 C509.6264,14.7728747 509.804938,14.7799403 509.915632,14.8906341 L510.401377,15.3763797 C510.521276,15.4962781 510.51534,15.6917347 510.389505,15.8053845 C509.307296,16.7829079 507.873155,17.3781217 506.299985,17.3781217 C502.93257,17.3781217 500.202138,14.6509336 500.19686,11.2847685 C500.191635,7.92836054 502.924087,5.18242707 506.280471,5.17186422 C508.411171,5.16526784 510.288545,6.2506252 511.385221,7.89993005 L511.327471,5.47425415 C511.32353,5.30842965 511.456862,5.17186422 511.622711,5.17186422 L512.304658,5.17186422 Z" id="r" fill="#FFFFFF" fill-rule="nonzero" transform="translate(506.398415, 11.274993) rotate(-45.000000) translate(-506.398415, -11.274993) "></path>
+                <text id="Ride-the-Lightning" font-family="Roboto-Regular, Roboto" font-size="12.6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="210" y="17">Ride the Lightning</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="Dashboard" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="24" y="71">bars</tspan>
+        </text>
+        <path d="M1215.10234,66.1960631 L1213.54375,66.1960631 L1212.80547,70.4124693 L1210,70.4124693 L1212.06719,58.4687193 L1216.28359,58.4769225 C1217.63438,58.4769225 1218.6748,58.7927396 1219.40488,59.4243834 C1220.13496,60.0560272 1220.46172,60.9187139 1220.38516,62.0124693 C1220.325,62.8765362 1220.07617,63.5915681 1219.63867,64.1575865 C1219.20117,64.723605 1218.58868,65.1706708 1217.80117,65.4987975 L1219.40898,70.2730162 L1219.40898,70.4124693 L1216.41484,70.4124693 L1215.10234,66.1960631 Z M1213.92109,63.9730162 L1215.56172,63.9894225 C1216.01016,63.9894225 1216.3998,63.8800486 1216.73066,63.6612975 C1217.06153,63.4425464 1217.29805,63.1431353 1217.44023,62.7630553 C1217.58242,62.3829752 1217.62344,62.0152055 1217.56328,61.659735 C1217.45391,61.0527007 1217.06563,60.732782 1216.39844,60.6999693 L1214.49531,60.6917662 L1213.92109,63.9730162 Z M1231.09844,60.6917662 L1227.62031,60.6917662 L1225.93867,70.4124693 L1223.125,70.4124693 L1224.81484,60.6917662 L1221.39414,60.6917662 L1221.78789,58.4687193 L1231.48398,58.4687193 L1231.09844,60.6917662 Z M1233.84648,68.1976256 L1238.71094,68.1976256 L1238.32539,70.4124693 L1230.65547,70.4124693 L1232.72266,58.4687193 L1235.53633,58.4687193 L1233.84648,68.1976256 Z" id="RTL-Copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M1247.88201,61.593739 C1248.41316,61.593739 1248.74334,62.1708163 1248.47633,62.6273303 L1243.42322,71.3554345 C1243.29688,71.5736259 1243.06719,71.699965 1242.82604,71.699965 C1242.38674,71.699965 1242.0537,71.2894051 1242.15705,70.8529943 L1243.48064,65.2687303 L1240.07265,65.2687303 C1239.65635,65.2687303 1239.33478,64.9012368 1239.38934,64.487789 L1240.30809,57.5971805 C1240.35402,57.2555379 1240.64687,57 1240.9914,57 L1245.12577,57 C1245.57653,57 1245.90671,57.430663 1245.79187,57.8670739 L1244.56877,61.593739 L1247.88201,61.593739 Z" id="b-copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <text id="caret-down-copy" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#FFFFFF">
+            <tspan x="1256" y="70">caret-down</tspan>
+        </text>
+        <g id="Group-2" transform="translate(1.000000, 396.000000)">
+            <rect id="Rectangle" fill-opacity="0.114128059" fill="#5E4EA5" opacity="0" x="0" y="0" width="218" height="48"></rect>
+            <text id="On-chain-Copy" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+                <tspan x="76" y="29">Lookup</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(1.000000, 444.000000)">
+            <rect id="Rectangle" fill-opacity="0.114128059" fill="#5E4EA5" opacity="0" x="0" y="0" width="218" height="48"></rect>
+            <text id="On-chain-Copy" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+                <tspan x="76" y="29">Routing</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill-opacity="0.114128059" fill="#C2C2C2" x="1" y="300" width="218" height="192"></rect>
+        <rect id="Rectangle" fill-opacity="0.114128059" fill="#BEBEBE" x="-1" y="300" width="219" height="48"></rect>
+        <g id="Group-14" transform="translate(0.000000, 349.000000)">
+            <g id="Group-2">
+                <rect id="Rectangle" fill-opacity="0.114128059" fill="#5E4EA5" opacity="0" x="0" y="0" width="218" height="48"></rect>
+                <text id="On-chain-Copy" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+                    <tspan x="76" y="29">Transactions</tspan>
+                </text>
+            </g>
+            <text id="exchange" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                <tspan x="37" y="29">exchange</tspan>
+            </text>
+        </g>
+        <g id="Group-11" transform="translate(0.000000, 300.000000)" fill="#5E4EA5">
+            <g id="Group-13">
+                <g id="Group-2">
+                    <rect id="Rectangle" fill-opacity="0.114128059" opacity="0" x="0" y="0" width="218" height="48"></rect>
+                    <text id="On-chain-Copy" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
+                        <tspan x="76" y="29">Peers / Channels</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="users" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700">
+                <tspan x="35" y="29">users</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="206" width="218" height="48"></rect>
+        <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+            <tspan x="70" y="235">On-chain</tspan>
+        </text>
+        <g id="Group-9" transform="translate(0.000000, 492.000000)">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="218" height="48"></rect>
+            <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="70" y="29">Advanced</tspan>
+            </text>
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="48" width="218" height="48"></rect>
+            <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="70" y="77">Help</tspan>
+            </text>
+            <g id="Group-6" transform="translate(0.000000, 110.000000)">
+                <g id="Group-30" transform="translate(0.000000, 7.000000)">
+                    <g id="Group-3">
+                        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="218" height="48"></rect>
+                        <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="70" y="29">Show Public Key</tspan>
+                        </text>
+                    </g>
+                    <text id="eye" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                        <tspan x="24" y="27">eye</tspan>
+                    </text>
+                </g>
+                <line x1="0.5" y1="0.5" x2="218.5" y2="0.5" id="Line-3" stroke="#E6E6E6" stroke-linecap="square"></line>
+            </g>
+            <text id="cog" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                <tspan x="25" y="28">cog</tspan>
+            </text>
+            <text id="life-ring" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                <tspan x="25" y="75">life-ring</tspan>
+            </text>
+        </g>
+        <text id="On-chain-Copy" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+            <tspan x="70" y="283">Lightning</tspan>
+        </text>
+        <text id="Dashboard" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
+            <tspan x="70" y="185">Dashboard</tspan>
+        </text>
+        <g id="Group-18" transform="translate(24.000000, 117.000000)">
+            <text id="Dashboard" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#181818">
+                <tspan x="0" y="15">Amora_UK01</tspan>
+            </text>
+            <path d="M99.6365126,7 L107.823305,7 C108.389692,7 108.672855,7.6718734 108.271959,8.06561025 L104.180132,12.0874818 C103.931957,12.3312251 103.527861,12.3312251 103.279686,12.0874818 L99.1878898,8.06561025 C98.786963,7.6718734 99.0701566,7 99.6365126,7 Z" id="c" fill="#4B4B4B" fill-rule="nonzero"></path>
+        </g>
+        <text id="tachometer-alt-fast" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="24" y="184">tachometer-alt-fast</tspan>
+        </text>
+        <text id="link" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="25" y="233">link</tspan>
+        </text>
+        <text id="bolt" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="28" y="282">bolt</tspan>
+        </text>
+        <text id="bolt" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="28" y="282">bolt</tspan>
+        </text>
+        <text id="search" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="38" y="425">search</tspan>
+        </text>
+        <text id="project-diagram" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="36" y="474">project-diagram</tspan>
+        </text>
+        <g id="Group-21" transform="translate(243.000000, 154.000000)">
+            <path d="M1012.87223,131.5 L5.1277704,131.5 C3.48633153,131.5 2.88407891,131.346766 2.28210802,131.024828 C1.71867923,130.723503 1.27649702,130.281321 0.975172007,129.717892 C0.653234454,129.115921 0.5,128.513668 0.5,126.87223 L0.5,5.1277704 C0.5,3.48633153 0.653234454,2.88407891 0.975172007,2.28210802 C1.27649702,1.71867923 1.71867923,1.27649702 2.28210802,0.975172007 C2.88407891,0.653234454 3.48633153,0.5 5.1277704,0.5 L1012.87223,0.5 C1014.51367,0.5 1015.11592,0.653234454 1015.71789,0.975172007 C1016.28132,1.27649702 1016.7235,1.71867923 1017.02483,2.28210802 C1017.34677,2.88407891 1017.5,3.48633153 1017.5,5.1277704 L1017.5,126.87223 C1017.5,128.513668 1017.34677,129.115921 1017.02483,129.717892 C1016.7235,130.281321 1016.28132,130.723503 1015.71789,131.024828 C1015.11592,131.346766 1014.51367,131.5 1012.87223,131.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <line x1="0" y1="48.5" x2="1018" y2="48.5" id="Line" stroke="#D7D7D7" stroke-linecap="square"></line>
+            <rect id="Rectangle" fill="#5E4EA5" x="1" y="47" width="79" height="2"></rect>
+            <rect id="Rectangle" fill="#59316B" opacity="0" x="78" y="47" width="80" height="2"></rect>
+            <text id="SATS" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#5E4EA5">
+                <tspan x="22.1435547" y="30">SATS</tspan>
+            </text>
+            <text id="BTC" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#979797">
+                <tspan x="104.90918" y="30">BTC</tspan>
+            </text>
+            <text id="GBP" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#979797">
+                <tspan x="182.958008" y="30">GBP</tspan>
+            </text>
+            <g id="Group-26" transform="translate(24.000000, 72.000000)">
+                <text id="Total-Balance" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#5E4EA5">
+                    <tspan x="0" y="11">Total Balance</tspan>
+                </text>
+                <text id="413,722" font-family="Roboto-Light, Roboto" font-size="20" font-weight="300" fill="#222831">
+                    <tspan x="0" y="37">413,722</tspan>
+                </text>
+            </g>
+            <g id="Group-23" transform="translate(121.000000, 72.000000)">
+                <text id="Confirmed" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#5E4EA5">
+                    <tspan x="0" y="11">Confirmed</tspan>
+                </text>
+                <text id="413,721" font-family="Roboto-Light, Roboto" font-size="20" font-weight="300" fill="#222831">
+                    <tspan x="0" y="37">413,721</tspan>
+                </text>
+            </g>
+            <g id="Group-24" transform="translate(216.000000, 72.000000)">
+                <text id="Unconfirmed" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#5E4EA5">
+                    <tspan x="0" y="11">Unconfirmed</tspan>
+                </text>
+                <text id="0" font-family="Roboto-Light, Roboto" font-size="20" font-weight="300" fill="#222831">
+                    <tspan x="0" y="37">0</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-27" transform="translate(243.000000, 117.000000)">
+            <path d="M16.4934772,9.00001192 C16.7919079,9.00001192 17.0372381,9.26218781 16.9953375,9.55781088 C16.7512891,11.2843693 15.9194124,12.8203153 14.7100342,13.9596864 C14.6178408,14.0465697 14.4990972,14.0887449 14.3797432,14.0887449 C14.2624339,14.0885313 14.0997451,14.0212097 14.0166154,13.9384462 L9.07818113,9.00001192 L16.4934772,9.00001192 Z M14.3712898,12.8787563 C15.115032,12.0625046 15.6412758,11.0675119 15.8950289,10.0000095 L11.492543,10.0000095 L14.3712898,12.8787563 Z M7.00006108,9.00001192 L11.8709906,13.8709415 C12.0850404,14.0849913 12.0688051,14.4484242 11.8219185,14.6234421 C10.6253576,15.472195 9.17006934,15.9796706 7.59506088,15.9993849 C7.56442131,15.9996901 7.53475829,15.9999952 7.50411872,15.9999952 C3.53693457,15.9999952 0.139756393,12.7353241 0.0044417746,8.76157865 C-0.128034716,4.86250958 2.71851611,1.60909937 6.44226212,1.0828555 C6.46444835,1.0797122 6.48663457,1.07815581 6.50817993,1.07815581 C6.77569638,1.07815581 7.00006108,1.3087766 7.00006108,1.58471588 L7.00006108,9.00001192 Z M7.58224353,14.9993873 C8.69536954,14.9856239 9.77037918,14.6900008 10.7253635,14.1393734 L6.00006347,9.41407343 L6.00006347,2.18221812 C3.01038554,2.88283901 0.897567087,5.59846974 1.00382904,8.72752112 C1.11945987,12.1275069 4.09632045,14.9999976 7.50381354,14.9999976 L7.58224353,14.9993873 Z M15.9987884,6.97502285 C16.0184722,7.26002584 15.7784825,7.5000155 15.4928387,7.5000155 L8.50005751,7.5000155 L8.50005751,0.507234318 C8.50005751,0.232851427 8.72191977,3.33786011e-05 8.99254901,3.33786011e-05 C9.0031691,3.33786011e-05 9.01412488,0.000338553655 9.02505015,0.00128459632 C12.758165,0.258791307 15.7412817,3.24190797 15.9987884,6.97502285 Z M9.50005512,6.50001788 L14.9406549,6.50001788 C14.5088017,3.71096203 12.289111,1.4909661 9.50005512,1.05941806 L9.50005512,6.50001788 Z" id="c" fill="#84979E" fill-rule="nonzero"></path>
+            <text id="On-chain-Balance" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#84979E">
+                <tspan x="25.0000778" y="15">On-chain Balance</tspan>
+            </text>
+            <g id="Group-20" transform="translate(0.000078, 0.000000)"></g>
+        </g>
+        <text id="chart-pie" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#84979E">
+            <tspan x="243" y="131">chart-pie</tspan>
+        </text>
+        <text id="Connections" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#84979E">
+            <tspan x="268" y="341">Connections</tspan>
+        </text>
+        <path d="M1254.87223,1019.5 L247.12777,1019.5 C245.486332,1019.5 244.884079,1019.34677 244.282108,1019.02483 C243.718679,1018.7235 243.276497,1018.28132 242.975172,1017.71789 C242.653234,1017.11592 242.5,1016.51367 242.5,1014.87223 L242.5,367.12777 C242.5,365.486332 242.653234,364.884079 242.975172,364.282108 C243.276497,363.718679 243.718679,363.276497 244.282108,362.975172 C244.884079,362.653234 245.486332,362.5 247.12777,362.5 L1254.87223,362.5 C1256.51367,362.5 1257.11592,362.653234 1257.71789,362.975172 C1258.28132,363.276497 1258.7235,363.718679 1259.02483,364.282108 C1259.34677,364.884079 1259.5,365.486332 1259.5,367.12777 L1259.5,1014.87223 C1259.5,1016.51367 1259.34677,1017.11592 1259.02483,1017.71789 C1258.7235,1018.28132 1258.28132,1018.7235 1257.71789,1019.02483 C1257.11592,1019.34677 1256.51367,1019.5 1254.87223,1019.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+        <line x1="400" y1="410.5" x2="1260.5" y2="409.5" id="Line" stroke="#D7D7D7" stroke-linecap="square"></line>
+        <rect id="Rectangle" fill="#5E4EA5" x="242" y="409" width="160" height="2"></rect>
+        <rect id="Rectangle" fill="#59316B" opacity="0" x="402" y="409" width="160" height="2"></rect>
+        <rect id="Rectangle" fill="#59316B" opacity="0" x="562" y="409" width="160" height="2"></rect>
+        <text id="Channels" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#5E4EA5">
+            <tspan x="292.813965" y="392">Channels</tspan>
+        </text>
+        <text id="Peers" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#979797">
+            <tspan x="464.188965" y="392">Peers</tspan>
+        </text>
+        <text id="Alias" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" fill="#444444">
+            <tspan x="266" y="465">Alias</tspan>
+        </text>
+        <text id="caret-down" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="15" font-weight="700" fill="#444444">
+            <tspan x="696.625" y="465">caret-down</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="266.5" y="475.5" width="439" height="1"></rect>
+        <text id="Amount" opacity="0" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#5E4EA5">
+            <tspan x="266" y="440">Amount</tspan>
+        </text>
+        <g id="Group-8" transform="translate(384.000000, 503.000000)">
+            <g id="Rectangle-Copy-7">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#5E4EA5" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <text id="Open-Channel" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                <tspan x="17.7602539" y="23">Open Channel</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(265.000000, 503.000000)">
+            <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="0.5" y="0.5" width="101" height="35" rx="4"></rect>
+            <text id="Clear-Fields" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="14.6542969" y="23">Clear Fields</tspan>
+            </text>
+        </g>
+        <g id="Group-16" transform="translate(1096.000000, 440.000000)">
+            <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="0.5" y="0.5" width="138" height="35" rx="4"></rect>
+            <text id="Show-Advanced" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="19.8857422" y="23">Show Advanced</tspan>
+            </text>
+        </g>
+        <g id="Group-13-Copy" transform="translate(729.000000, 429.000000)">
+            <g id="Group-7" transform="translate(0.000000, 22.000000)">
+                <text id="Amount" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" fill="#444444">
+                    <tspan x="1.42108547e-13" y="14">Amount</tspan>
+                </text>
+                <text id="sats" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" fill="#858585">
+                    <tspan x="203.472168" y="14">sats</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="0.5" y="24.5" width="231" height="1"></rect>
+            </g>
+            <text id="Amount" opacity="0" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#5E4EA5">
+                <tspan x="0" y="11">Amount</tspan>
+            </text>
+        </g>
+        <g id="Group-15-Copy" transform="translate(985.000000, 448.000000)">
+            <g id="Group-12">
+                <rect id="Rectangle" fill="#9B9B9B" x="1" y="3" width="31" height="14" rx="7"></rect>
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+            </g>
+            <text id="Private" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#323232">
+                <tspan x="43" y="15">Private</tspan>
+            </text>
+        </g>
+        <text id="users" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#84979E">
+            <tspan x="243" y="341">users</tspan>
+        </text>
+        <g id="Group-19" transform="translate(356.000000, 380.000000)">
+            <g id="Group-17" transform="translate(148.000000, 0.000000)">
+                <circle id="Oval" fill="#858585" cx="7.5" cy="7.5" r="7.5"></circle>
+                <text id="0" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="4.34448242" y="11">0</tspan>
+                </text>
+            </g>
+            <g id="Group-17">
+                <circle id="Oval" fill="#5E4EA5" cx="7.5" cy="7.5" r="7.5"></circle>
+                <text id="4" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="4.34448242" y="11">4</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-10" transform="translate(265.000000, 560.000000)">
+            <path d="M963.87223,435.5 L5.1277704,435.5 C3.48633153,435.5 2.88407891,435.346766 2.28210802,435.024828 C1.71867923,434.723503 1.27649702,434.281321 0.975172007,433.717892 C0.653234454,433.115921 0.5,432.513668 0.5,430.87223 L0.5,5.1277704 C0.5,3.48633153 0.653234454,2.88407891 0.975172007,2.28210802 C1.27649702,1.71867923 1.71867923,1.27649702 2.28210802,0.975172007 C2.88407891,0.653234454 3.48633153,0.5 5.1277704,0.5 L963.87223,0.5 C965.513668,0.5 966.115921,0.653234454 966.717892,0.975172007 C967.281321,1.27649702 967.723503,1.71867923 968.024828,2.28210802 C968.346766,2.88407891 968.5,3.48633153 968.5,5.1277704 L968.5,430.87223 C968.5,432.513668 968.346766,433.115921 968.024828,433.717892 C967.723503,434.281321 967.281321,434.723503 966.717892,435.024828 C966.115921,435.346766 965.513668,435.5 963.87223,435.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <line x1="150" y1="48.5" x2="969.52381" y2="47.5" id="Line" stroke="#D7D7D7" stroke-linecap="square"></line>
+            <g id="Group-15" transform="translate(0.000000, 17.000000)">
+                <rect id="Rectangle" fill="#5E4EA5" x="0" y="30" width="152" height="2"></rect>
+                <text id="Open" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#5E4EA5">
+                    <tspan x="59.5766602" y="13">Open</tspan>
+                </text>
+                <g id="Group-4" transform="translate(96.000000, 1.000000)">
+                    <circle id="Oval" fill="#5E4EA5" cx="7.5" cy="7.5" r="7.5"></circle>
+                    <text id="4" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4.11114909" y="11">4</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#59316B" opacity="0" x="152" y="47" width="153" height="2"></rect>
+            <rect id="Rectangle" fill="#59316B" opacity="0" x="305" y="47" width="152" height="2"></rect>
+            <g id="Group-25" transform="translate(152.000000, 17.000000)">
+                <text id="Pending" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#979797">
+                    <tspan x="51.0771484" y="13">Pending</tspan>
+                </text>
+                <g id="Group-22" transform="translate(106.000000, 1.000000)">
+                    <circle id="Oval" fill="#858585" cx="7.5" cy="7.5" r="7.5"></circle>
+                    <text id="0" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4.11114909" y="11">0</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-25" transform="translate(304.000000, 17.000000)">
+                <text id="Closed" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#979797">
+                    <tspan x="54.9873047" y="13">Closed</tspan>
+                </text>
+                <g id="Group-22" transform="translate(101.000000, 1.000000)">
+                    <circle id="Oval" fill="#858585" cx="7.5" cy="7.5" r="7.5"></circle>
+                    <text id="0" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="4.11114909" y="11">0</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Group-29" transform="translate(289.000000, 566.000000)">
+            <path d="M915.87223,409.5 L5.1277704,409.5 C3.48633153,409.5 2.88407891,409.346766 2.28210802,409.024828 C1.71867923,408.723503 1.27649702,408.281321 0.975172007,407.717892 C0.653234454,407.115921 0.5,406.513668 0.5,404.87223 L0.5,107.12777 C0.5,105.486332 0.653234454,104.884079 0.975172007,104.282108 C1.27649702,103.718679 1.71867923,103.276497 2.28210802,102.975172 C2.88407891,102.653234 3.48633153,102.5 5.1277704,102.5 L915.87223,102.5 C917.513668,102.5 918.115921,102.653234 918.717892,102.975172 C919.281321,103.276497 919.723503,103.718679 920.024828,104.282108 C920.346766,104.884079 920.5,105.486332 920.5,107.12777 L920.5,404.87223 C920.5,406.513668 920.346766,407.115921 920.024828,407.717892 C919.723503,408.281321 919.281321,408.723503 918.717892,409.024828 C918.115921,409.346766 917.513668,409.5 915.87223,409.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+            <text id="Peer" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#000000">
+                <tspan x="17" y="136">Peer</tspan>
+            </text>
+            <text id="Bitrefill" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="35" y="186">Bitrefill</tspan>
+            </text>
+            <text id="Blockstream" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="35" y="238">Blockstream</tspan>
+            </text>
+            <text id="tipping.me" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="35" y="293">tipping.me</tspan>
+            </text>
+            <text id="Hold-Monkey" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="35" y="342">Hold Monkey</tspan>
+            </text>
+            <circle id="Oval" fill="#28CA42" cx="22" cy="181" r="5"></circle>
+            <circle id="Oval" fill="#28CA42" cx="22" cy="233" r="5"></circle>
+            <circle id="Oval" fill="#FFBD2E" cx="22" cy="288" r="5"></circle>
+            <circle id="Oval" fill="#FFBD2E" cx="22" cy="337" r="5"></circle>
+            <text id="Sent" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#000000">
+                <tspan x="142" y="136">Sent</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="171.938672" y="186">0</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="171.938672" y="238">0</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="171.938672" y="293">0</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="171.938672" y="342">0</tspan>
+            </text>
+            <text id="Received" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#000000">
+                <tspan x="203.083984" y="136">Received</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="255.938672" y="186">0</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="255.938672" y="238">0</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="255.938672" y="293">0</tspan>
+            </text>
+            <text id="0" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="255.938672" y="342">0</tspan>
+            </text>
+            <text id="5-sats" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="746.846875" y="186">5 sats</tspan>
+            </text>
+            <text id="15-sats-*" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="728.89043" y="238">15 sats *</tspan>
+            </text>
+            <text id="5-sats" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="746.846875" y="293">5 sats</tspan>
+            </text>
+            <text id="5-sats" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="746.846875" y="342">5 sats</tspan>
+            </text>
+            <text id="Actions" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#000000">
+                <tspan x="844" y="136">Actions</tspan>
+            </text>
+            <g id="Group-31" transform="translate(813.000000, 166.000000)">
+                <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="0.5" y="0.5" width="91" height="35" rx="4"></rect>
+                <text id="Actions-caret-down" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="16.4526367" y="23">Actions </tspan>
+                    <tspan x="67.7973633" y="23" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-weight="700">caret-down</tspan>
+                </text>
+            </g>
+            <g id="Group-31" transform="translate(846.000000, 0.000000)">
+                <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="0.5" y="0.5" width="91" height="35" rx="4"></rect>
+                <text id="Actions-caret-down" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="16.4526367" y="23">Actions </tspan>
+                    <tspan x="67.7973633" y="23" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-weight="700">caret-down</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="813.5" y="216.5" width="91" height="35" rx="4"></rect>
+            <text id="Actions-caret-down" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="829.452637" y="239">Actions </tspan>
+                <tspan x="880.797363" y="239" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-weight="700">caret-down</tspan>
+            </text>
+            <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="813.5" y="267.5" width="91" height="35" rx="4"></rect>
+            <text id="Actions-caret-down" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="829.452637" y="290">Actions </tspan>
+                <tspan x="880.797363" y="290" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-weight="700">caret-down</tspan>
+            </text>
+            <rect id="Rectangle-Copy-7" stroke="#DCDCDC" fill="#FFFFFF" x="813.5" y="317.5" width="91" height="35" rx="4"></rect>
+            <text id="Actions-caret-down" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="829.452637" y="340">Actions </tspan>
+                <tspan x="880.797363" y="340" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-weight="700">caret-down</tspan>
+            </text>
+            <line x1="1" y1="158.5" x2="922" y2="158.5" id="Line-2" stroke="#E1E1E1" stroke-linecap="square"></line>
+            <text id="Rows-per-page:-10-ca" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="577" y="389">Rows per page: 10  </tspan>
+                <tspan x="702.336133" y="389" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-weight="700">caret-down</tspan>
+            </text>
+            <text id="1-4-of-4" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="765" y="389">1-4 of 4</tspan>
+            </text>
+            <text id="angle-right" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="899" y="389">angle-right</tspan>
+            </text>
+            <text id="angle-left" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#4F4F4F">
+                <tspan x="863" y="389">angle-left</tspan>
+            </text>
+            <rect id="Rectangle" fill="#D1C7FF" x="288" y="190" width="413" height="4"></rect>
+            <rect id="Rectangle" fill="#5E4EA5" x="288" y="190" width="232" height="4"></rect>
+            <text id="Local:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="288" y="184">Local: </tspan>
+                <tspan x="324.73125" y="184" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <text id="Remote:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="577" y="184">Remote: </tspan>
+                <tspan x="626.605804" y="184" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <text id="Capacity" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#000000">
+                <tspan x="289" y="136">Capacity</tspan>
+            </text>
+            <rect id="Rectangle" fill="#D1C7FF" x="288" y="240" width="413" height="4"></rect>
+            <rect id="Rectangle" fill="#5E4EA5" x="288" y="240" width="232" height="4"></rect>
+            <text id="Local:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="288" y="234">Local: </tspan>
+                <tspan x="324.73125" y="234" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <text id="Remote:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="577" y="234">Remote: </tspan>
+                <tspan x="626.605804" y="234" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <rect id="Rectangle" fill="#D1C7FF" x="288" y="291" width="413" height="4"></rect>
+            <rect id="Rectangle" fill="#5E4EA5" x="288" y="291" width="232" height="4"></rect>
+            <text id="Local:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="288" y="285">Local: </tspan>
+                <tspan x="324.73125" y="285" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <text id="Remote:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="577" y="285">Remote: </tspan>
+                <tspan x="626.605804" y="285" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <rect id="Rectangle" fill="#D1C7FF" x="288" y="341" width="413" height="4"></rect>
+            <rect id="Rectangle" fill="#5E4EA5" x="288" y="341" width="232" height="4"></rect>
+            <text id="Local:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="288" y="335">Local: </tspan>
+                <tspan x="324.73125" y="335" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <text id="Remote:-323,913-sats" font-family="Roboto-Bold, Roboto" font-size="12" font-weight="bold" letter-spacing="0.171428574" fill="#4F4F4F">
+                <tspan x="577" y="335">Remote: </tspan>
+                <tspan x="626.605804" y="335" font-family="Roboto-Regular, Roboto" font-weight="normal">323,913 sats</tspan>
+            </text>
+            <line x1="1" y1="208.5" x2="922" y2="208.5" id="Line-2" stroke="#E1E1E1" stroke-linecap="square"></line>
+            <line x1="1" y1="259.5" x2="922" y2="259.5" id="Line-2" stroke="#E1E1E1" stroke-linecap="square"></line>
+            <line x1="1" y1="309.5" x2="922" y2="309.5" id="Line-2" stroke="#E1E1E1" stroke-linecap="square"></line>
+            <line x1="1" y1="359.5" x2="922" y2="359.5" id="Line-2" stroke="#E1E1E1" stroke-linecap="square"></line>
+            <g id="Group-28" transform="translate(648.000000, 67.000000)">
+                <text id="Filter" font-family="Roboto-Regular, Roboto" font-size="15" font-weight="normal" fill="#444444">
+                    <tspan x="1" y="14">Filter</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" transform="translate(135.500000, 22.500000) scale(1, -1) translate(-135.500000, -22.500000) " x="0.5" y="22.5" width="270" height="1"></rect>
+            </g>
+            <text id="Fee-Policy" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="0.5" fill="#000000">
+                <tspan x="719" y="136">Fee Policy</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill-opacity="0.249972684" fill="#000000" x="0" y="38" width="1284" height="992"></rect>
+        <g id="Group-33" transform="translate(345.000000, 315.000000)">
+            <g id="Rectangle-Copy-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <path d="M558.333368,35.7500197 L563.649018,41.0656694 C563.783043,41.1997366 563.783043,41.4176011 563.649018,41.5516263 L562.676601,42.5240437 C562.542575,42.658069 562.324711,42.658069 562.190644,42.5240437 L556.874994,37.208394 L551.558925,42.5240437 C551.424858,42.658069 551.206993,42.658069 551.072926,42.5240437 L550.10055,41.5516263 C549.966483,41.4176011 549.966483,41.1997366 550.10055,41.0656694 L555.41662,35.7500197 L550.10055,30.4339503 C549.966483,30.2998831 549.966483,30.0820187 550.10055,29.9479514 L551.073387,28.975576 C551.207413,28.8415088 551.425277,28.8415088 551.559344,28.975576 L556.874994,34.2916453 L562.190644,28.9759956 C562.324711,28.8419703 562.542575,28.8419703 562.676601,28.9759956 L563.649018,29.948413 C563.783043,30.0824383 563.783043,30.3003027 563.649018,30.43437 L558.333368,35.7500197 Z" id="t" fill="#202020" fill-rule="nonzero"></path>
+            <text id="Channel-Rebalance" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#2E2E2E">
+                <tspan x="28" y="43">Channel Rebalance</tspan>
+            </text>
+            <g id="Group-34" transform="translate(28.000000, 70.000000)">
+                <circle id="Oval" fill="#5E4EA5" cx="11" cy="11" r="11"></circle>
+                <text id="check" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="12" font-weight="700" fill="#FFFFFF">
+                    <tspan x="5" y="16">check</tspan>
+                </text>
+                <text id="check" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="12" font-weight="700" fill="#FFFFFF">
+                    <tspan x="5" y="16">check</tspan>
+                </text>
+            </g>
+            <g id="Group-38" transform="translate(29.000000, 227.000000)">
+                <g id="Group-34" fill="#5E4EA5">
+                    <circle id="Oval" cx="11" cy="11" r="11"></circle>
+                </g>
+                <text id="Invoice-/-Payment" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="37" y="16">Invoice / Payment</tspan>
+                </text>
+            </g>
+            <g id="Group-34" transform="translate(28.000000, 152.000000)">
+                <circle id="Oval" fill="#5E4EA5" cx="11" cy="11" r="11"></circle>
+                <text id="Check" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="13" font-weight="700" fill="#FFFFFF">
+                    <tspan x="4.5" y="16">Check</tspan>
+                </text>
+            </g>
+            <text id="Rebalancing-Fee:-5-s" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="62" y="168">Rebalancing Fee: </tspan>
+                <tspan x="172.523438" y="168" font-family="Roboto-Regular, Roboto" font-weight="normal">5 sats    |   </tspan>
+                <tspan x="238.148438" y="168">Hops:  </tspan>
+                <tspan x="281.857422" y="168" font-family="Roboto-Regular, Roboto" font-weight="normal">4</tspan>
+            </text>
+            <text id="Rebalancing-Amount:" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="62" y="86">Rebalancing Amount: </tspan>
+                <tspan x="199.313477" y="86" font-family="Roboto-Regular, Roboto" font-weight="normal">250,000 sats 	 |   </tspan>
+                <tspan x="303.274414" y="86">Peer: </tspan>
+                <tspan x="339.279297" y="86" font-family="Roboto-Regular, Roboto" font-weight="normal">NodeAlias1</tspan>
+            </text>
+            <line x1="38.5" y1="105.125" x2="38.5" y2="141.375" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
+            <line x1="38.5" y1="185.125" x2="38.5" y2="221.375" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
+            <text id="3" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                <tspan x="36.0214844" y="243">3</tspan>
+            </text>
+            <g id="Group-32" transform="translate(63.000000, 269.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                </g>
+                <text id="angle-down" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#4F4F4F">
+                    <tspan x="474" y="27">angle-down</tspan>
+                </text>
+                <text id="check" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="14" font-weight="normal" fill="#969696">
+                    <tspan x="131" y="27">check</tspan>
+                </text>
+                <text id="Invoice-generated" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4F4F4F">
+                    <tspan x="14" y="26">Invoice generated</tspan>
+                </text>
+            </g>
+            <g id="Group-32" transform="translate(64.000000, 327.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                </g>
+                <text id="angle-down" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#4F4F4F">
+                    <tspan x="474" y="27">angle-down</tspan>
+                </text>
+                <text id="Processing-payment" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4F4F4F">
+                    <tspan x="14" y="26">Processing payment</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle" fill="#DCD5FB" x="63" y="364" width="498" height="4"></rect>
+            <rect id="Rectangle" fill="#5E4EA5" x="214" y="364" width="166" height="4"></rect>
+        </g>
+    </g>
+</svg>
