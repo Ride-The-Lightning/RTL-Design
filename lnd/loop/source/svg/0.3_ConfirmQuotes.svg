@@ -22,17 +22,11 @@
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-7" x="0" y="0" width="620" height="477" rx="4"></rect>
-        <filter x="-7.1%" y="-9.0%" width="115.2%" height="119.7%" filterUnits="objectBoundingBox" id="filter-8">
+        <rect id="path-7" x="0" y="0" width="620" height="504" rx="4"></rect>
+        <filter x="-7.1%" y="-8.5%" width="115.2%" height="118.7%" filterUnits="objectBoundingBox" id="filter-8">
             <feOffset dx="3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264450393 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <rect id="path-9" x="0" y="0" width="89" height="36" rx="4"></rect>
-        <filter x="-4.5%" y="-5.6%" width="109.0%" height="122.2%" filterUnits="objectBoundingBox" id="filter-10">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="0.3_ConfirmQuotes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -397,7 +391,7 @@
             </g>
         </g>
         <rect id="Rectangle" fill-opacity="0.249972684" fill="#000000" x="0" y="38" width="1284" height="733"></rect>
-        <g id="Group-15" transform="translate(332.000000, 147.000000)">
+        <g id="Group-17" transform="translate(332.000000, 173.000000)">
             <g id="Rectangle-Copy-2">
                 <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
@@ -406,56 +400,68 @@
             <text id="pencil" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="12" font-weight="700" fill="#FFFFFF">
                 <tspan x="33" y="132">pencil</tspan>
             </text>
-            <g id="Group-13" transform="translate(29.000000, 424.000000)">
-                <circle id="Oval" fill="#828282" cx="11" cy="11" r="11"></circle>
-                <text id="3" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="7.02148438" y="16">3</tspan>
+            <g id="Group-16" transform="translate(29.000000, 209.000000)">
+                <g id="Group-13" transform="translate(0.000000, 198.000000)">
+                    <circle id="Oval" fill="#828282" cx="11" cy="11" r="11"></circle>
+                    <text id="3" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                        <tspan x="7.02148438" y="16">3</tspan>
+                    </text>
+                    <text id="Loop-Out" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                        <tspan x="37" y="16">Loop-Out</tspan>
+                    </text>
+                </g>
+                <text id="Swap-Fee-(sats)" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="29" y="20">Swap Fee (sats)</tspan>
                 </text>
-                <text id="Loop-Out" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                    <tspan x="37" y="16">Loop-Out</tspan>
+                <text id="Miner-Fee-(sats)" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="154" y="20">Miner Fee (sats)</tspan>
+                </text>
+                <text id="Prepay-Amount-(sats)" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="281" y="20">Prepay Amount (sats)</tspan>
+                </text>
+                <text id="CLTV-Delta" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="442" y="20">CLTV Delta</tspan>
+                </text>
+                <text id="355" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
+                    <tspan x="29" y="42">355</tspan>
+                </text>
+                <text id="Swap-Payment-Destina" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="29" y="88">Swap Payment Destination</tspan>
+                </text>
+                <text id="AiOs/9fzY7RZHOhg7ahw" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
+                    <tspan x="29" y="110">AiOs/9fzY7RZHOhg7ahw/qNS6YEhLYol6WoOvqN/quKI</tspan>
+                </text>
+                <text id="149" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
+                    <tspan x="157" y="42">149	</tspan>
+                </text>
+                <text id="1,337" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
+                    <tspan x="285" y="42">1,337</tspan>
+                </text>
+                <text id="100" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
+                    <tspan x="449" y="42">100</tspan>
+                </text>
+                <line x1="9.5" y1="0.5" x2="9.5" y2="188.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
+                <line x1="29" y1="57.5" x2="550.5" y2="57.5" id="Line-5" stroke="#D9D9D9" stroke-linecap="square"></line>
+                <rect id="Rectangle-Copy-7" fill="#F5F5F5" x="29" y="137" width="101" height="36" rx="4"></rect>
+                <text id="LOOP-OUT" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                    <tspan x="42" y="160">LOOP OUT</tspan>
+                </text>
+                <text id="mouse-pointer" stroke="#FFFFFF" stroke-width="2" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" letter-spacing="1" fill="#343434">
+                    <tspan x="80.25" y="173">mouse-pointer</tspan>
                 </text>
             </g>
-            <g id="Group-14" transform="translate(28.000000, 192.000000)">
-                <circle id="Oval" fill="#5E4EA5" cx="11" cy="11" r="11"></circle>
-                <text id="2" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="7.02148438" y="16">2</tspan>
+            <g id="Group-15" transform="translate(28.000000, 179.000000)">
+                <g id="Group-14">
+                    <circle id="Oval" fill="#5E4EA5" cx="11" cy="11" r="11"></circle>
+                    <text id="2" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                        <tspan x="7.02148438" y="16">2</tspan>
+                    </text>
+                </g>
+                <text id="Confirm-Quote" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="38" y="16">Confirm Quote</tspan>
                 </text>
             </g>
-            <text id="Confirm-Quote" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="66" y="208">Confirm Quote</tspan>
-            </text>
-            <text id="Swap-Fee-(sats)" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="58" y="246">Swap Fee (sats)</tspan>
-            </text>
-            <text id="Miner-Fee-(sats)" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="183" y="246">Miner Fee (sats)</tspan>
-            </text>
-            <text id="Prepay-Amount-(sats)" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="310" y="246">Prepay Amount (sats)</tspan>
-            </text>
-            <text id="CLTV-Delta" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="471" y="246">CLTV Delta</tspan>
-            </text>
-            <text id="355" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
-                <tspan x="58" y="268">355</tspan>
-            </text>
-            <text id="Swap-Payment-Destina" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="58" y="314">Swap Payment Destination</tspan>
-            </text>
-            <text id="AiOs/9fzY7RZHOhg7ahw" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
-                <tspan x="58" y="336">AiOs/9fzY7RZHOhg7ahw/qNS6YEhLYol6WoOvqN/quKI</tspan>
-            </text>
-            <text id="149" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
-                <tspan x="186" y="268">149	</tspan>
-            </text>
-            <text id="1,337" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
-                <tspan x="314" y="268">1,337</tspan>
-            </text>
-            <text id="100" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#797979">
-                <tspan x="478" y="268">100</tspan>
-            </text>
-            <line x1="38.5" y1="226.5" x2="38.5" y2="414.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
-            <line x1="38.5" y1="147.5" x2="38.5" y2="183.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
+            <line x1="38.5" y1="147.5" x2="38.5" y2="171.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
             <text id="Loop-out-Amount:-250" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
                 <tspan x="66" y="131">Loop-out Amount:</tspan>
                 <tspan x="178.957031" y="131" font-family="Roboto-Regular, Roboto" font-weight="normal"> 250,000 sats</tspan>
@@ -472,18 +478,13 @@
                 <tspan x="271.442383" y="83" font-family="Roboto-Bold, Roboto" font-weight="bold"> </tspan>
                 <tspan x="274.928711" y="83" font-family="Roboto-Light, Roboto" font-weight="300">1797870836207190016</tspan>
             </text>
-            <path d="M588.333368,35.7500197 L593.649018,41.0656694 C593.783043,41.1997366 593.783043,41.4176011 593.649018,41.5516263 L592.676601,42.5240437 C592.542575,42.658069 592.324711,42.658069 592.190644,42.5240437 L586.874994,37.208394 L581.558925,42.5240437 C581.424858,42.658069 581.206993,42.658069 581.072926,42.5240437 L580.10055,41.5516263 C579.966483,41.4176011 579.966483,41.1997366 580.10055,41.0656694 L585.41662,35.7500197 L580.10055,30.4339503 C579.966483,30.2998831 579.966483,30.0820187 580.10055,29.9479514 L581.073387,28.975576 C581.207413,28.8415088 581.425277,28.8415088 581.559344,28.975576 L586.874994,34.2916453 L592.190644,28.9759956 C592.324711,28.8419703 592.542575,28.8419703 592.676601,28.9759956 L593.649018,29.948413 C593.783043,30.0824383 593.783043,30.3003027 593.649018,30.43437 L588.333368,35.7500197 Z" id="t" fill="#202020" fill-rule="nonzero"></path>
             <text id="Channel-Loop-out" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#2E2E2E">
                 <tspan x="28" y="43">Channel Loop-out</tspan>
             </text>
-            <line x1="58" y1="283.5" x2="579.5" y2="283.5" id="Line-5" stroke="#D9D9D9" stroke-linecap="square"></line>
-            <g id="Group-14" transform="translate(58.000000, 356.000000)">
-                <g id="Rectangle-Copy-7">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-                    <use fill="#5E4EA5" fill-rule="evenodd" xlink:href="#path-9"></use>
-                </g>
-                <text id="Loop-Out" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="15.5078125" y="23">Loop Out</tspan>
+            <g id="Group-21" transform="translate(526.000000, 453.000000)">
+                <rect id="Rectangle-Copy-7" x="0" y="0" width="72" height="36" rx="4"></rect>
+                <text id="CANCEL" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                    <tspan x="1.97363281" y="23">CANCEL</tspan>
                 </text>
             </g>
         </g>

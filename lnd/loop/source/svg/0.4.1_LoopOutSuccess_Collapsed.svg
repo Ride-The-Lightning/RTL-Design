@@ -22,8 +22,8 @@
             <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-7" x="0" y="0" width="620" height="479" rx="4"></rect>
-        <filter x="-7.1%" y="-9.0%" width="115.2%" height="119.6%" filterUnits="objectBoundingBox" id="filter-8">
+        <rect id="path-7" x="0" y="0" width="620" height="508" rx="4"></rect>
+        <filter x="-7.1%" y="-8.5%" width="115.2%" height="118.5%" filterUnits="objectBoundingBox" id="filter-8">
             <feOffset dx="3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264450393 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
@@ -33,12 +33,6 @@
             <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0.591259058   0 0 0 0 0.591259058   0 0 0 0 0.591259058  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <rect id="path-11" x="0" y="0" width="121" height="36" rx="4"></rect>
-        <filter x="-3.3%" y="-5.6%" width="106.6%" height="122.2%" filterUnits="objectBoundingBox" id="filter-12">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="0.4.1_LoopOutSuccess_Collapsed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -403,7 +397,7 @@
             </g>
         </g>
         <rect id="Rectangle" fill-opacity="0.249972684" fill="#000000" x="0" y="38" width="1284" height="733"></rect>
-        <g id="Group-17" transform="translate(332.000000, 146.000000)">
+        <g id="Group-20" transform="translate(332.000000, 168.000000)">
             <g id="Rectangle-Copy-2">
                 <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
@@ -412,7 +406,7 @@
             <text id="check" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="12" font-weight="700" fill="#FFFFFF">
                 <tspan x="33" y="132">check</tspan>
             </text>
-            <g id="Group-13" transform="translate(29.000000, 272.000000)">
+            <g id="Group-13" transform="translate(29.000000, 244.000000)">
                 <circle id="Oval" fill="#5E4EA5" cx="11" cy="11" r="11"></circle>
                 <text id="check" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="12" font-weight="700" fill="#FFFFFF">
                     <tspan x="5" y="16">check</tspan>
@@ -421,18 +415,19 @@
                     <tspan x="37" y="16">Loop-Out</tspan>
                 </text>
             </g>
-            <g id="Group-14" transform="translate(28.000000, 192.000000)">
-                <circle id="Oval" fill="#5E4EA5" cx="11" cy="11" r="11"></circle>
-                <text id="check" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="12" font-weight="700" fill="#FFFFFF">
-                    <tspan x="5" y="16">check</tspan>
+            <g id="Group-16" transform="translate(28.000000, 180.000000)">
+                <g id="Group-14">
+                    <circle id="Oval" fill="#5E4EA5" cx="11" cy="11" r="11"></circle>
+                    <text id="check" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="12" font-weight="700" fill="#FFFFFF">
+                        <tspan x="5" y="16">check</tspan>
+                    </text>
+                </g>
+                <text id="Quote-confirmed-|-Fe" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                    <tspan x="38" y="16">Quote confirmed  |   Fees: </tspan>
+                    <tspan x="200.763672" y="16" font-family="Roboto-Regular, Roboto" font-weight="normal">1,841</tspan>
                 </text>
             </g>
-            <text id="Quote-confirmed-|-Fe" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="66" y="208">Quote confirmed  |   Fees: </tspan>
-                <tspan x="228.763672" y="208" font-family="Roboto-Regular, Roboto" font-weight="normal">1,841</tspan>
-            </text>
-            <line x1="38.5" y1="226.5" x2="38.5" y2="262.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
-            <line x1="38.5" y1="147.5" x2="38.5" y2="183.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
+            <line x1="38.5" y1="147.5" x2="38.5" y2="171.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
             <text id="Loop-out-Amount:-250" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
                 <tspan x="66" y="131">Loop-out Amount:</tspan>
                 <tspan x="178.957031" y="131" font-family="Roboto-Regular, Roboto" font-weight="normal"> 250,000 sats</tspan>
@@ -449,11 +444,10 @@
                 <tspan x="271.442383" y="83" font-family="Roboto-Bold, Roboto" font-weight="bold"> </tspan>
                 <tspan x="274.928711" y="83" font-family="Roboto-Light, Roboto" font-weight="300">1797870836207190016</tspan>
             </text>
-            <path d="M592.333368,35.7500197 L597.649018,41.0656694 C597.783043,41.1997366 597.783043,41.4176011 597.649018,41.5516263 L596.676601,42.5240437 C596.542575,42.658069 596.324711,42.658069 596.190644,42.5240437 L590.874994,37.208394 L585.558925,42.5240437 C585.424858,42.658069 585.206993,42.658069 585.072926,42.5240437 L584.10055,41.5516263 C583.966483,41.4176011 583.966483,41.1997366 584.10055,41.0656694 L589.41662,35.7500197 L584.10055,30.4339503 C583.966483,30.2998831 583.966483,30.0820187 584.10055,29.9479514 L585.073387,28.975576 C585.207413,28.8415088 585.425277,28.8415088 585.559344,28.975576 L590.874994,34.2916453 L596.190644,28.9759956 C596.324711,28.8419703 596.542575,28.8419703 596.676601,28.9759956 L597.649018,29.948413 C597.783043,30.0824383 597.783043,30.3003027 597.649018,30.43437 L592.333368,35.7500197 Z" id="t" fill="#202020" fill-rule="nonzero"></path>
             <text id="Channel-Loop-out" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#2E2E2E">
                 <tspan x="28" y="43">Channel Loop-out</tspan>
             </text>
-            <g id="Group-37" transform="translate(66.000000, 316.000000)">
+            <g id="Group-37" transform="translate(66.000000, 290.000000)">
                 <g id="Group-32">
                     <g id="Rectangle">
                         <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
@@ -467,27 +461,27 @@
                     </text>
                 </g>
             </g>
-            <g id="Group-16" transform="translate(200.000000, 409.000000)">
-                <g id="Rectangle-Copy-7">
-                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                    <use fill="#5E4EA5" fill-rule="evenodd" xlink:href="#path-11"></use>
-                </g>
-                <text id="Monitor-Status" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
-                    <tspan x="14.121582" y="23">Monitor Status</tspan>
-                </text>
-            </g>
-            <g id="Group-15" transform="translate(66.000000, 409.000000)">
-                <rect id="Rectangle-Copy-7" stroke="#CFCFCF" fill="#FFFFFF" x="0.5" y="0.5" width="120" height="35" rx="4"></rect>
-                <text id="Close" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#656565">
-                    <tspan x="42.7880859" y="23">Close</tspan>
-                </text>
-            </g>
             <text id="check" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="14" font-weight="normal" fill="#929292">
-                <tspan x="236" y="341">check</tspan>
+                <tspan x="236" y="317">check</tspan>
             </text>
             <text id="Loop-out-request-suc" stroke="#979797" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
-                <tspan x="66" y="388">Loop-out request successful. Go to loop to monitor it’s status.</tspan>
+                <tspan x="66" y="368">Loop-out request successful. Go to loop to monitor it’s status.</tspan>
             </text>
+            <g id="Group-15" transform="translate(64.000000, 395.000000)">
+                <rect id="Rectangle-Copy-7" x="0" y="0" width="155" height="36" rx="4"></rect>
+                <text id="MONITOR-STATUS" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                    <tspan x="13" y="23">MONITOR STATUS</tspan>
+                </text>
+            </g>
+            <g id="Group-17" transform="translate(526.000000, 455.000000)">
+                <g id="Group-21">
+                    <rect id="Rectangle-Copy-7" x="0" y="0" width="72" height="36" rx="4"></rect>
+                    <text id="CLOSE" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                        <tspan x="13.6923828" y="23">CLOSE</tspan>
+                    </text>
+                </g>
+            </g>
+            <line x1="38.5" y1="210" x2="38.5" y2="234" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
         </g>
     </g>
 </svg>
