@@ -28,18 +28,6 @@
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.184904939 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <rect id="path-9" x="310" y="349" width="665" height="255" rx="4"></rect>
-        <filter x="-6.6%" y="-16.9%" width="114.1%" height="136.9%" filterUnits="objectBoundingBox" id="filter-10">
-            <feOffset dx="3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264450393 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
-        <rect id="path-11" x="0" y="0" width="616" height="52" rx="4"></rect>
-        <filter x="-1.5%" y="-16.3%" width="103.1%" height="136.5%" filterUnits="objectBoundingBox" id="filter-12">
-            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.591259058   0 0 0 0 0.591259058   0 0 0 0 0.591259058  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
     </defs>
     <g id="2.3peers_peers_modal_addpeer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#1D1E1F" x="0" y="0" width="1284" height="1030"></rect>
@@ -496,42 +484,5 @@
             </g>
         </g>
         <rect id="Rectangle" fill-opacity="0.249972684" fill="#000000" x="0" y="38" width="1284" height="992"></rect>
-        <g id="Rectangle-Copy-2">
-            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
-            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
-        </g>
-        <text id="Add-Peer" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#2E2E2E">
-            <tspan x="334" y="392">Add Peer</tspan>
-        </text>
-        <g id="Group-7" transform="translate(334.000000, 418.000000)">
-            <path d="M4,0 L612,0 C614.209139,-4.05812251e-16 616,1.790861 616,4 L616,50 L616,50 L0,50 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#F0F0F0"></path>
-            <text id="Amount" opacity="0" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#5E4EA5">
-                <tspan x="19" y="17">Amount</tspan>
-            </text>
-            <rect id="Rectangle" stroke="#838383" transform="translate(308.000000, 48.500000) scale(1, -1) translate(-308.000000, -48.500000) " x="0.5" y="48.5" width="615" height="1"></rect>
-            <text id="Peer-Lightning-Addre" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#717171">
-                <tspan x="20" y="36">Peer Lightning Address (pubkey or pubkey@ip:port)</tspan>
-            </text>
-        </g>
-        <g id="Group-19" transform="translate(786.000000, 568.000000)" fill="#4628C9" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1.1">
-            <text id="ADD-PEER">
-                <tspan x="90.5867188" y="13">ADD PEER</tspan>
-            </text>
-            <text id="CANCEL">
-                <tspan x="0.186816406" y="13">CANCEL</tspan>
-            </text>
-        </g>
-        <g id="Group-44" transform="translate(334.000000, 492.000000)">
-            <g id="Rectangle">
-                <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
-                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
-            </g>
-            <text id="angle-down" transform="translate(586.000000, 26.000000) scale(-1, 1) translate(-586.000000, -26.000000) " font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#818181">
-                <tspan x="580" y="32">angle-down</tspan>
-            </text>
-            <text id="Add-peer-and-open-ch" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4F4F4F">
-                <tspan x="26" y="33">Add peer and open channel</tspan>
-            </text>
-        </g>
     </g>
 </svg>
