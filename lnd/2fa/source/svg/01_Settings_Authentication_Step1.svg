@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1283px" height="1030px" viewBox="0 0 1283 1030" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>01_Settings_Authentication_Step1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-1" y="91" width="218" height="939"></rect>
+        <filter x="-6.7%" y="-1.3%" width="113.3%" height="103.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.508718297   0 0 0 0 0.508320861   0 0 0 0 0.508320861  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="-1" y="38" width="1284" height="53"></rect>
+        <filter x="-0.8%" y="-15.1%" width="101.6%" height="137.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="97" height="36" rx="4"></rect>
+        <filter x="-4.1%" y="-5.6%" width="108.2%" height="122.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="146" height="36" rx="4"></rect>
+        <filter x="-2.7%" y="-5.6%" width="105.5%" height="122.2%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.257457386 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="620" height="404" rx="4"></rect>
+        <filter x="-7.1%" y="-10.6%" width="115.2%" height="123.3%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264450393 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="01_Settings_Authentication_Step1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#131415" x="0" y="0" width="1283" height="1030"></rect>
+        <rect id="Background" fill="#F2F5F6" x="-1" y="38" width="1284" height="992"></rect>
+        <g id="Rectangle">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="Rectangle-13">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <use fill="#5E4EA5" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+        <g id="Browser" transform="translate(-1.000000, 0.000000)">
+            <path d="M0,6.00024414 C0,2.68640081 2.6794487,0 5.99234946,0 L1278.00765,0 C1281.31713,0 1284,2.68722626 1284,6.00024414 L1284,38 L0,38 L0,6.00024414 Z" id="Tab-BG---Right" fill="#363738"></path>
+            <circle id="Dot---Red" fill="#FF5F57" cx="18" cy="19" r="6"></circle>
+            <circle id="Dot---Orange" fill="#FFBF2F" cx="38" cy="19" r="6"></circle>
+            <circle id="Dot---Green" fill="#28CA42" cx="58" cy="19" r="6"></circle>
+            <g id="Back" transform="translate(76.000000, 7.000000)">
+                <rect id="Rectangle" fill="#656668" x="0" y="0" width="28" height="24" rx="4"></rect>
+                <path d="M10.1607883,11.3246277 L15.780455,5.65901618 C15.9603839,5.47908726 16.2513057,5.47908726 16.4312347,5.65901618 L17.1891941,6.41697565 C17.3691231,6.59690457 17.3691231,6.88782642 17.1891941,7.06775535 L12.6528768,11.6500175 L17.1891941,16.2322797 C17.3691231,16.4122086 17.3691231,16.7031305 17.1891941,16.8830594 L16.4312347,17.6410189 C16.2513057,17.8209478 15.9603839,17.8209478 15.780455,17.6410189 L10.1607883,11.9754074 C9.98085942,11.7954785 9.98085942,11.5045566 10.1607883,11.3246277 Z" id="a" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+            <g id="Forward" transform="translate(105.000000, 7.000000)">
+                <rect id="Rectangle" fill="#656668" x="0" y="0" width="28" height="24" rx="4"></rect>
+                <path d="M18.1891941,11.9754074 L12.5695275,17.6410189 C12.3895986,17.8209478 12.0986767,17.8209478 11.9187478,17.6410189 L11.1607883,16.8830594 C10.9808594,16.7031305 10.9808594,16.4122086 11.1607883,16.2322797 L15.6971057,11.6500175 L11.1607883,7.06775535 C10.9808594,6.88782642 10.9808594,6.59690457 11.1607883,6.41697565 L11.9187478,5.65901618 C12.0986767,5.47908726 12.3895986,5.47908726 12.5695275,5.65901618 L18.1891941,11.3246277 C18.3691231,11.5045566 18.3691231,11.7954785 18.1891941,11.9754074 Z" id="a" fill="#FFFFFF" fill-rule="nonzero" opacity="0.200334821"></path>
+            </g>
+            <g id="New-Tab" transform="translate(1260.000000, 14.000000)">
+                <rect id="Rectangle" fill="#292A2B" x="0" y="0" width="24" height="24"></rect>
+                <path d="M16.2531029,11.6843877 C16.3618742,11.6843877 16.4499775,11.7724909 16.4499775,11.8812622 L16.4499775,12.6687603 C16.4499775,12.7775316 16.3618742,12.8656349 16.2531029,12.8656349 L12.3156123,12.8656349 L12.3156123,16.8031255 C12.3156123,16.9118967 12.2275091,17 12.1187378,17 L11.3312397,17 C11.2224684,17 11.1343651,16.9118967 11.1343651,16.8031255 L11.1343651,12.8656349 L7.19687453,12.8656349 C7.08810328,12.8656349 7,12.7775316 7,12.6687603 L7,11.8812622 C7,11.7724909 7.08810328,11.6843877 7.19687453,11.6843877 L11.1343651,11.6843877 L11.1343651,7.74689706 C11.1343651,7.63812581 11.2224684,7.55002253 11.3312397,7.55002253 L12.1187378,7.55002253 C12.2275091,7.55002253 12.3156123,7.63812581 12.3156123,7.74689706 L12.3156123,11.6843877 L16.2531029,11.6843877 Z" id="p" fill="#FFFFFF" fill-rule="nonzero" opacity="0.497907366"></path>
+            </g>
+            <g id="URL" transform="translate(378.000000, 7.000000)">
+                <path d="M0,3.99005301 C0,1.78640758 1.78094395,5.31029755e-14 3.99753941,5.28693238e-14 L516.002461,-1.1012102e-15 C518.210241,-1.33393271e-15 520,1.78429328 520,3.99005301 L520,20.009947 C520,22.2135924 518.219056,24 516.002461,24 L3.99753941,24 C1.78975936,24 0,22.2157067 0,20.009947 L0,3.99005301 Z" id="URL-Bar" fill="#696A6B"></path>
+                <path d="M512.304658,5.17186422 C512.467743,5.17186422 512.59997,5.30412783 512.59997,5.46721261 L512.59997,10.1922013 C512.59997,10.3552861 512.467743,10.4875131 512.304658,10.4875131 L507.579669,10.4875131 C507.416585,10.4875131 507.284358,10.3552861 507.284358,10.1922013 L507.284358,9.51027815 C507.284358,9.34440559 507.42091,9.21109712 507.586711,9.21503845 L510.69705,9.2890827 C509.940722,7.61516854 508.257531,6.45158527 506.299985,6.45158527 C503.633864,6.45158527 501.476559,8.60927437 501.476559,11.2750113 C501.476559,13.9411327 503.634248,16.0984373 506.299985,16.0984373 C507.533046,16.0984373 508.65724,15.6369165 509.509554,14.8770557 C509.6264,14.7728747 509.804938,14.7799403 509.915632,14.8906341 L510.401377,15.3763797 C510.521276,15.4962781 510.51534,15.6917347 510.389505,15.8053845 C509.307296,16.7829079 507.873155,17.3781217 506.299985,17.3781217 C502.93257,17.3781217 500.202138,14.6509336 500.19686,11.2847685 C500.191635,7.92836054 502.924087,5.18242707 506.280471,5.17186422 C508.411171,5.16526784 510.288545,6.2506252 511.385221,7.89993005 L511.327471,5.47425415 C511.32353,5.30842965 511.456862,5.17186422 511.622711,5.17186422 L512.304658,5.17186422 Z" id="r" fill="#FFFFFF" fill-rule="nonzero" transform="translate(506.398415, 11.274993) rotate(-45.000000) translate(-506.398415, -11.274993) "></path>
+                <text id="Ride-the-Lightning" font-family="Roboto-Regular, Roboto" font-size="12.6" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="210" y="17">Ride the Lightning</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="Dashboard" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="23" y="74">bars</tspan>
+        </text>
+        <g id="RTL-Logo" transform="translate(1209.000000, 57.000000)" fill="#FFFFFF">
+            <path d="M5.10234375,9.19606308 L3.54375,9.19606308 L2.80546875,13.4124693 L0,13.4124693 L2.0671875,1.46871933 L6.28359375,1.47692246 C7.63438175,1.47692246 8.67480104,1.79273961 9.40488281,2.4243834 C10.1349646,3.05602718 10.4617191,3.91871386 10.3851562,5.01246933 C10.3249997,5.87653615 10.0761741,6.59156807 9.63867187,7.15758652 C9.20116969,7.72360498 8.58867581,8.17067082 7.80117187,8.49879746 L9.40898437,13.2730162 L9.40898437,13.4124693 L6.41484375,13.4124693 L5.10234375,9.19606308 Z M3.92109375,6.97301621 L5.56171875,6.98942246 C6.01015849,6.98942246 6.39980303,6.88004855 6.73066406,6.66129746 C7.06152509,6.44254636 7.29804616,6.1431353 7.44023438,5.76305527 C7.58242259,5.38297525 7.6234378,5.01520549 7.56328125,4.65973496 C7.4539057,4.05270067 7.06562834,3.732782 6.3984375,3.69996933 L4.4953125,3.69176621 L3.92109375,6.97301621 Z M21.0984375,3.69176621 L17.6203125,3.69176621 L15.9386719,13.4124693 L13.125,13.4124693 L14.8148438,3.69176621 L11.3941406,3.69176621 L11.7878906,1.46871933 L21.4839844,1.46871933 L21.0984375,3.69176621 Z M23.8464844,11.1976256 L28.7109375,11.1976256 L28.3253906,13.4124693 L20.6554688,13.4124693 L22.7226562,1.46871933 L25.5363281,1.46871933 L23.8464844,11.1976256 Z" id="RTL-Copy" fill-rule="nonzero"></path>
+            <path d="M37.882011,4.59373905 C38.4131621,4.59373905 38.7433371,5.1708163 38.4763316,5.62733033 L33.4232186,14.3554345 C33.2968796,14.5736259 33.0671926,14.699965 32.8260382,14.699965 C32.3867394,14.699965 32.0537046,14.2894051 32.1570525,13.8529943 L33.4806404,8.26873029 L30.0726546,8.26873029 C29.656347,8.26873029 29.3347797,7.90123677 29.3893415,7.48778904 L30.3080893,0.597180469 C30.3540155,0.25553795 30.646872,-1.13686838e-13 30.9914024,-1.13686838e-13 L35.1257676,-1.13686838e-13 C35.5765338,-1.13686838e-13 35.9067088,0.430663036 35.7918653,0.867073853 L34.5687655,4.59373905 L37.882011,4.59373905 Z" id="b-copy" fill-rule="nonzero"></path>
+            <text id="caret-down" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700">
+                <tspan x="46" y="15">caret-down</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill-opacity="0.114128059" fill="#C2C2C2" x="0" y="348" width="218" height="48"></rect>
+        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="-1" y="206" width="218" height="48"></rect>
+        <g id="Group-2" transform="translate(-1.000000, 252.000000)">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="218" height="48"></rect>
+            <text id="On-chain-Copy" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+                <tspan x="70" y="31">Lightning</tspan>
+            </text>
+            <text id="bolt" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                <tspan x="26" y="32">bolt</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(-1.000000, 300.000000)">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="218" height="48"></rect>
+            <text id="On-chain-Copy" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+                <tspan x="70" y="31">Network</tspan>
+            </text>
+            <text id="project-diagram" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                <tspan x="26" y="32">project-diagram</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(-1.000000, 348.000000)">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="218" height="48"></rect>
+            <text id="On-chain-Copy" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#5E4EA5">
+                <tspan x="70" y="29">Settings</tspan>
+            </text>
+            <text id="tools" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#5E4EA5">
+                <tspan x="26" y="29">tools</tspan>
+            </text>
+        </g>
+        <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#474747">
+            <tspan x="69" y="235">On-chain</tspan>
+        </text>
+        <g id="Group-9" transform="translate(-1.000000, 396.000000)">
+            <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="218" height="48"></rect>
+            <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
+                <tspan x="70" y="29">Help</tspan>
+            </text>
+            <g id="Group-6" transform="translate(0.000000, 62.000000)">
+                <g id="Group-30" transform="translate(0.000000, 7.000000)">
+                    <g id="Group-3">
+                        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="218" height="48"></rect>
+                        <text id="On-chain" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
+                            <tspan x="70" y="29">Public Key</tspan>
+                        </text>
+                    </g>
+                    <text id="eye" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                        <tspan x="24" y="29">eye</tspan>
+                    </text>
+                </g>
+                <line x1="0.5" y1="0.5" x2="218.5" y2="0.5" id="Line-3" stroke="#E6E6E6" stroke-linecap="square"></line>
+            </g>
+            <text id="life-ring" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+                <tspan x="25" y="29">life-ring</tspan>
+            </text>
+        </g>
+        <text id="Dashboard" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#4A4A4A">
+            <tspan x="69" y="185">Dashboard</tspan>
+        </text>
+        <text id="Dashboard" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#181818">
+            <tspan x="23" y="132">Amora_UK01</tspan>
+        </text>
+        <path d="M122.605572,124 L130.394412,124 C130.933268,124 131.202666,124.637416 130.821258,125.01096 L126.92833,128.826568 C126.692219,129.057811 126.307766,129.057811 126.071654,128.826568 L122.178757,125.01096 C121.797319,124.637416 122.066746,124 122.605572,124 Z" id="c" fill="#4B4B4B" fill-rule="nonzero"></path>
+        <text id="tachometer-alt" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="23" y="186">tachometer-alt</tspan>
+        </text>
+        <text id="link" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#858585">
+            <tspan x="24" y="235">link</tspan>
+        </text>
+        <g id="Group-8" transform="translate(244.000000, 108.000000)" fill="#84979E" font-size="16">
+            <text id="Settings" font-family="Roboto-Regular, Roboto" font-weight="normal">
+                <tspan x="22" y="15">Settings</tspan>
+            </text>
+            <text id="tools" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-weight="700">
+                <tspan x="0" y="15">tools</tspan>
+            </text>
+        </g>
+        <path d="M1254.87223,136.5 L247.12777,136.5 C245.486332,136.5 244.884079,136.653234 244.282108,136.975172 C243.718679,137.276497 243.276497,137.718679 242.975172,138.282108 C242.653234,138.884079 242.5,139.486332 242.5,141.12777 L242.5,781.87223 C242.5,783.513668 242.653234,784.115921 242.975172,784.717892 C243.276497,785.281321 243.718679,785.723503 244.282108,786.024828 C244.884079,786.346766 245.486332,786.5 247.12777,786.5 L1254.87223,786.5 C1256.51367,786.5 1257.11592,786.346766 1257.71789,786.024828 C1258.28132,785.723503 1258.7235,785.281321 1259.02483,784.717892 C1259.34677,784.115921 1259.5,783.513668 1259.5,781.87223 L1259.5,141.12777 C1259.5,139.486332 1259.34677,138.884079 1259.02483,138.282108 C1258.7235,137.718679 1258.28132,137.276497 1257.71789,136.975172 C1257.11592,136.653234 1256.51367,136.5 1254.87223,136.5 Z" id="Rectangle" stroke="#DEDEDE" fill="#FFFFFF"></path>
+        <line x1="242.5" y1="188.5" x2="1260.5" y2="188.5" id="Line" stroke="#D7D7D7" stroke-linecap="square"></line>
+        <g id="Group-4" transform="translate(400.000000, 157.000000)" fill="#5E4EA5">
+            <rect id="Rectangle" x="0" y="30" width="160" height="2"></rect>
+            <text id="Authentication" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400">
+                <tspan x="34.0283203" y="13">Authentication</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(244.000000, 158.000000)">
+            <rect id="Rectangle" fill="#59316B" opacity="0" x="0" y="30" width="160" height="2"></rect>
+            <text id="Layout" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#979797">
+                <tspan x="58.9760742" y="13">Layout</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle" fill="#59316B" opacity="0" x="562" y="188" width="160" height="2"></rect>
+        <text id="LND-Config" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" fill="#979797">
+            <tspan x="606.706055" y="171">LND Config</tspan>
+        </text>
+        <text id="Password" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#84979E">
+            <tspan x="290" y="225">Password</tspan>
+        </text>
+        <text id="user-lock" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#84979E">
+            <tspan x="266.25" y="224">user-lock</tspan>
+        </text>
+        <path d="M1225.87223,239.5 L270.12777,239.5 C268.486332,239.5 267.884079,239.653234 267.282108,239.975172 C266.718679,240.276497 266.276497,240.718679 265.975172,241.282108 C265.653234,241.884079 265.5,242.486332 265.5,244.12777 L265.5,565.87223 C265.5,567.513668 265.653234,568.115921 265.975172,568.717892 C266.276497,569.281321 266.718679,569.723503 267.282108,570.024828 C267.884079,570.346766 268.486332,570.5 270.12777,570.5 L1225.87223,570.5 C1227.51367,570.5 1228.11592,570.346766 1228.71789,570.024828 C1229.28132,569.723503 1229.7235,569.281321 1230.02483,568.717892 C1230.34677,568.115921 1230.5,567.513668 1230.5,565.87223 L1230.5,244.12777 C1230.5,242.486332 1230.34677,241.884079 1230.02483,241.282108 C1229.7235,240.718679 1229.28132,240.276497 1228.71789,239.975172 C1228.11592,239.653234 1227.51367,239.5 1225.87223,239.5 Z" id="Rectangle-Copy-5" stroke="#DEDEDE" fill="#FFFFFF"></path>
+        <g id="Group-18" transform="translate(266.000000, 595.000000)" fill="#84979E">
+            <text id="Two-Factor-Authentic" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal">
+                <tspan x="24" y="15">Two Factor Authentication</tspan>
+            </text>
+            <text id="user-clock" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700">
+                <tspan x="0.25" y="14">user-clock</tspan>
+            </text>
+        </g>
+        <path d="M1225.87223,624.5 L270.12777,624.5 C268.486332,624.5 267.884079,624.653234 267.282108,624.975172 C266.718679,625.276497 266.276497,625.718679 265.975172,626.282108 C265.653234,626.884079 265.5,627.486332 265.5,629.12777 L265.5,753.87223 C265.5,755.513668 265.653234,756.115921 265.975172,756.717892 C266.276497,757.281321 266.718679,757.723503 267.282108,758.024828 C267.884079,758.346766 268.486332,758.5 270.12777,758.5 L1225.87223,758.5 C1227.51367,758.5 1228.11592,758.346766 1228.71789,758.024828 C1229.28132,757.723503 1229.7235,757.281321 1230.02483,756.717892 C1230.34677,756.115921 1230.5,755.513668 1230.5,753.87223 L1230.5,629.12777 C1230.5,627.486332 1230.34677,626.884079 1230.02483,626.282108 C1229.7235,625.718679 1229.28132,625.276497 1228.71789,624.975172 C1228.11592,624.653234 1227.51367,624.5 1225.87223,624.5 Z" id="Rectangle-Copy-5" stroke="#DEDEDE" fill="#FFFFFF"></path>
+        <g id="Group-5-Copy" transform="translate(289.000000, 699.000000)">
+            <g id="Group-7">
+                <g id="Rectangle-Copy-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#5E4EA5" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <text id="Enable-2FA" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="14.3076172" y="23">Enable 2FA</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-12" transform="translate(290.000000, 648.000000)">
+            <path d="M911.87223,0.5 L5.1277704,0.5 C3.48633153,0.5 2.88407891,0.653234454 2.28210802,0.975172007 C1.71867923,1.27649702 1.27649702,1.71867923 0.975172007,2.28210802 C0.653234454,2.88407891 0.5,3.48633153 0.5,5.1277704 L0.5,30.8722296 C0.5,32.5136685 0.653234454,33.1159211 0.975172007,33.717892 C1.27649702,34.2813208 1.71867923,34.723503 2.28210802,35.024828 C2.88407891,35.3467655 3.48633153,35.5 5.1277704,35.5 L911.87223,35.5 C913.513668,35.5 914.115921,35.3467655 914.717892,35.024828 C915.281321,34.723503 915.723503,34.2813208 916.024828,33.717892 C916.346766,33.1159211 916.5,32.5136685 916.5,30.8722296 L916.5,5.1277704 C916.5,3.48633153 916.346766,2.88407891 916.024828,2.28210802 C915.723503,1.71867923 915.281321,1.27649702 914.717892,0.975172007 C914.115921,0.653234454 913.513668,0.5 911.87223,0.5 Z" id="Rectangle" stroke="#C4D7FF" fill="#F7FAFF"></path>
+            <text id="Protect-your-account" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.200000003" fill="#18548E">
+                <tspan x="35" y="23">Protect your account from unauthorized access by requiring a second authentication method in addition to your password.</tspan>
+            </text>
+            <text id="info-circle" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#18548E">
+                <tspan x="12" y="23">info-circle</tspan>
+            </text>
+        </g>
+        <path d="M293,263 L1205,263 C1207.20914,263 1209,264.790861 1209,267 L1209,313 L1209,313 L289,313 L289,267 C289,264.790861 290.790861,263 293,263 Z" id="Rectangle" fill="#F0F0F0"></path>
+        <text id="Current-Password" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#929292">
+            <tspan x="302" y="295">Current Password</tspan>
+        </text>
+        <rect id="Rectangle" stroke="#838383" x="289.5" y="312.5" width="919" height="1"></rect>
+        <g id="Group-11" transform="translate(289.000000, 362.000000)">
+            <path d="M4,0 L916,0 C918.209139,-4.05812251e-16 920,1.790861 920,4 L920,50 L920,50 L0,50 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#F0F0F0"></path>
+            <text id="New-Password" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#929292">
+                <tspan x="13" y="32">New Password</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#838383" x="0.5" y="49.5" width="919" height="1"></rect>
+        </g>
+        <g id="Group-10" transform="translate(289.000000, 436.000000)">
+            <path d="M4,0 L916,0 C918.209139,-4.05812251e-16 920,1.790861 920,4 L920,50 L920,50 L0,50 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#F0F0F0"></path>
+            <text id="New-Password" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#929292">
+                <tspan x="13" y="32">New Password</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#838383" x="0.5" y="49.5" width="919" height="1"></rect>
+        </g>
+        <line x1="290.5" y1="339.5" x2="1207.5" y2="339.5" id="Line-2" stroke="#E0E0E0" stroke-linecap="square"></line>
+        <g id="Group-5-Copy" transform="translate(289.000000, 510.000000)">
+            <g id="Group-7">
+                <g id="Rectangle-Copy-7">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#5E4EA5" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <text id="Change-Password" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="16.4121094" y="23">Change Password</tspan>
+                </text>
+            </g>
+        </g>
+        <rect id="Rectangle" fill-opacity="0.249972684" fill="#000000" x="0" y="38" width="1284" height="992"></rect>
+        <g id="Group-32" transform="translate(332.000000, 332.000000)">
+            <g id="Rectangle-Copy-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <circle id="Oval-Copy-2" fill="#5E4EA5" cx="40" cy="76" r="11"></circle>
+            <text id="1-copy" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                <tspan x="36.0214844" y="81">1</tspan>
+            </text>
+            <circle id="Oval" fill="#828282" cx="40" cy="240" r="11"></circle>
+            <text id="2" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                <tspan x="36.0214844" y="245">2</tspan>
+            </text>
+            <text id="Scan-the-code-or-cop" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="67" y="245">Scan the code or copy the secret </tspan>
+            </text>
+            <circle id="Oval" fill="#828282" cx="40" cy="312" r="11"></circle>
+            <text id="3" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#FFFFFF">
+                <tspan x="36.0214844" y="317">3</tspan>
+            </text>
+            <text id="Verify-your-authenti" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="67" y="317">Verify your authentication is working</tspan>
+            </text>
+            <line x1="39.5" y1="96.5" x2="39.5" y2="217.5" id="Line-4-Copy-2" stroke="#E2E2E2" stroke-linecap="square"></line>
+            <line x1="39.5" y1="264" x2="39.5" y2="288" id="Line-4-Copy-2" stroke="#E2E2E2" stroke-linecap="square"></line>
+            <text id="Authenticate-with-yo" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="67" y="80">Authenticate with your RTL password</tspan>
+            </text>
+            <rect id="Rectangle-Copy-7" x="67" y="167" width="95" height="36" rx="4"></rect>
+            <text id="CONFIRM" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                <tspan x="79.3100586" y="190">CONFIRM </tspan>
+            </text>
+            <text id="Setup-Two-Factor-Aut" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#2E2E2E">
+                <tspan x="29" y="36">Setup Two Factor Authentication</tspan>
+            </text>
+            <g id="Group-13" transform="translate(513.000000, 344.000000)">
+                <rect id="Rectangle-Copy-7" x="0" y="0" width="83" height="36" rx="4"></rect>
+                <text id="CANCEL" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                    <tspan x="12.9736328" y="23">CANCEL</tspan>
+                </text>
+            </g>
+            <path d="M71,98 L585,98 C587.209139,98 589,99.790861 589,102 L589,148 L589,148 L67,148 L67,102 C67,99.790861 68.790861,98 71,98 Z" id="Rectangle" fill="#F0F0F0"></path>
+            <text id="Password" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#2C2C2C">
+                <tspan x="81" y="133">Password</tspan>
+            </text>
+            <text id="Secret-Code" opacity="0" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#5E4EA5">
+                <tspan x="81" y="115">Secret Code</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#838383" x="67.5" y="147.5" width="521" height="1"></rect>
+        </g>
+    </g>
+</svg>
