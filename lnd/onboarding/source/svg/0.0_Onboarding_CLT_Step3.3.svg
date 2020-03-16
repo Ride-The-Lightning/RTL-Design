@@ -22,6 +22,14 @@
             <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.191105769 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
+        <text id="text-7" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#000000">
+            <tspan x="248" y="50">mouse-pointer</tspan>
+        </text>
+        <filter x="-190.0%" y="-93.8%" width="490.0%" height="350.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130408654 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
     <g id="0.0_Onboarding_CLT_Step3.3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#131415" x="0" y="0" width="1284" height="771"></rect>
@@ -409,6 +417,19 @@
                 <text id="info-circle" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#84979E">
                     <tspan x="374" y="32">info-circle</tspan>
                 </text>
+            </g>
+        </g>
+        <g id="Group-15" transform="translate(572.000000, 437.000000)">
+            <g id="Group-4">
+                <rect id="Rectangle" fill="#656565" x="0" y="0" width="264" height="24" rx="4"></rect>
+                <text id="https://&lt;cl-rest-api" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#FFFFFF">
+                    <tspan x="8.16503906" y="16">https://&lt;cl-rest api server ip address&gt;:3001/v1</tspan>
+                </text>
+            </g>
+            <g id="mouse-pointer" stroke="#FFFFFF" stroke-width="3">
+                <use fill="#000000" fill-opacity="1" stroke-opacity="1" filter="url(#filter-8)" xlink:href="#text-7"></use>
+                <use fill="#000000" fill-opacity="1" stroke-opacity="1" xlink:href="#text-7"></use>
+                <use xlink:href="#text-7"></use>
             </g>
         </g>
     </g>
