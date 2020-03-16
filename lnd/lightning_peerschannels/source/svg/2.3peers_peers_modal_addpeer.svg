@@ -28,6 +28,12 @@
             <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.184904939 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
+        <rect id="path-9" x="0" y="0" width="620" height="346" rx="4"></rect>
+        <filter x="-7.1%" y="-12.4%" width="115.2%" height="127.2%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="3" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.264450393 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
     <g id="2.3peers_peers_modal_addpeer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#1D1E1F" x="0" y="0" width="1284" height="1030"></rect>
@@ -484,5 +490,45 @@
             </g>
         </g>
         <rect id="Rectangle" fill-opacity="0.249972684" fill="#000000" x="0" y="38" width="1284" height="992"></rect>
+        <g id="Group-39" transform="translate(331.000000, 361.000000)">
+            <g id="Rectangle-Copy-2">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+            <circle id="Oval" fill="#5E4EA5" cx="39" cy="80" r="11"></circle>
+            <text id="1" font-family="Roboto-Black, Roboto" font-size="14" font-weight="700" fill="#FFFFFF">
+                <tspan x="34.9462891" y="85">1</tspan>
+            </text>
+            <circle id="Oval" fill="#858585" cx="39" cy="253" r="11"></circle>
+            <text id="2" font-family="Roboto-Bold, Roboto" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="34.9838867" y="258">2</tspan>
+            </text>
+            <text id="Open-Channel-(Option" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="66" y="258">Open Channel (Optional)</tspan>
+            </text>
+            <line x1="38.5" y1="100.5" x2="38.5" y2="232.5" id="Line-4" stroke="#E2E2E2" stroke-linecap="square"></line>
+            <text id="Connect-to-a-New-Pee" font-family="Roboto-Medium, Roboto" font-size="20" font-weight="400" fill="#2E2E2E">
+                <tspan x="28" y="43">Connect to a New Peer</tspan>
+            </text>
+            <text id="Add-Peer" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" fill="#4F4F4F">
+                <tspan x="65" y="85">Add Peer</tspan>
+            </text>
+            <path d="M69,109 L592,109 C594.209139,109 596,110.790861 596,113 L596,159 L596,159 L65,159 L65,113 C65,110.790861 66.790861,109 69,109 Z" id="Rectangle" fill="#F0F0F0"></path>
+            <text id="Amount" opacity="0" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#5E4EA5">
+                <tspan x="84" y="126">Amount</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#838383" transform="translate(330.500000, 157.500000) scale(1, -1) translate(-330.500000, -157.500000) " x="65.5" y="157.5" width="530" height="1"></rect>
+            <text id="Peer-Lightning-Addre" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#717171">
+                <tspan x="85" y="145">Peer Lightning Address (pubkey or pubkey@ip:port)</tspan>
+            </text>
+            <rect id="Rectangle-Copy-7" x="65" y="179" width="100" height="36" rx="4"></rect>
+            <text id="ADD-PEER" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                <tspan x="78" y="202">ADD PEER</tspan>
+            </text>
+            <rect id="Rectangle-Copy-7" x="521" y="288" width="75" height="36" rx="4"></rect>
+            <text id="CLOSE" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
+                <tspan x="534" y="311">CLOSE</tspan>
+            </text>
+        </g>
     </g>
 </svg>
