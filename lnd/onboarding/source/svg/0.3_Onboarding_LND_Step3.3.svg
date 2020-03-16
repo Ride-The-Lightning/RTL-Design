@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1284px" height="771px" viewBox="0 0 1284 771" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>0.1_Onboarding_LND_Step3.1</title>
+    <title>0.3_Onboarding_LND_Step3.3</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="218" height="680"></rect>
@@ -22,8 +22,16 @@
             <feGaussianBlur stdDeviation="9" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.191105769 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
+        <text id="text-7" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="16" font-weight="700" fill="#000000">
+            <tspan x="178" y="50">mouse-pointer</tspan>
+        </text>
+        <filter x="-190.0%" y="-93.8%" width="490.0%" height="350.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130408654 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
     </defs>
-    <g id="0.1_Onboarding_LND_Step3.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="0.3_Onboarding_LND_Step3.3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#131415" x="0" y="0" width="1284" height="771"></rect>
         <rect id="Background" fill="#F2F5F6" x="0" y="38" width="1284" height="733"></rect>
         <g id="Group-13" transform="translate(0.000000, 91.000000)">
@@ -340,8 +348,8 @@
             <text id="LND-Configuration-Fi" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill="#343434">
                 <tspan x="102.927734" y="273">LND Configuration Files</tspan>
             </text>
-            <text id="Locate-the-folder-co" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#6E6E6E">
-                <tspan x="68.0898438" y="305">Locate the folder containing admin.macaroon</tspan>
+            <text id="Url-for-LND-REST-API" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#6E6E6E">
+                <tspan x="151.539062" y="305">Url for LND REST APIs</tspan>
             </text>
             <g id="Group-29" transform="translate(366.000000, 489.000000)">
                 <rect id="Rectangle-Copy-7" x="0" y="0" width="65" height="36" rx="4"></rect>
@@ -396,8 +404,8 @@
             </g>
             <g id="Group-27" transform="translate(25.000000, 336.000000)">
                 <path d="M4,0 L402,0 C404.209139,-4.05812251e-16 406,1.790861 406,4 L406,50 L406,50 L0,50 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#F0F0F0"></path>
-                <text id="Path-to-admin.macaro" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494949">
-                    <tspan x="12" y="33">Path to admin.macaroon</tspan>
+                <text id="lnServerUrl" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494949">
+                    <tspan x="12" y="33">lnServerUrl</tspan>
                 </text>
                 <rect id="Rectangle" stroke="#838383" x="0.5" y="49.5" width="405" height="1"></rect>
                 <g id="Group-24" transform="translate(0.000000, 68.000000)">
@@ -409,6 +417,19 @@
                 <text id="info-circle" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#84979E">
                     <tspan x="374" y="32">info-circle</tspan>
                 </text>
+            </g>
+        </g>
+        <g id="Group-15" transform="translate(642.000000, 437.000000)">
+            <g id="Group-4">
+                <rect id="Rectangle" fill="#656565" x="0" y="0" width="194" height="24" rx="4"></rect>
+                <text id="e.g.:-https://192.16" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#FFFFFF">
+                    <tspan x="8.24511719" y="16">e.g.: https://192.168.0.1:8080/v1</tspan>
+                </text>
+            </g>
+            <g id="mouse-pointer" stroke="#FFFFFF" stroke-width="3">
+                <use fill="#000000" fill-opacity="1" stroke-opacity="1" filter="url(#filter-8)" xlink:href="#text-7"></use>
+                <use fill="#000000" fill-opacity="1" stroke-opacity="1" xlink:href="#text-7"></use>
+                <use xlink:href="#text-7"></use>
             </g>
         </g>
     </g>

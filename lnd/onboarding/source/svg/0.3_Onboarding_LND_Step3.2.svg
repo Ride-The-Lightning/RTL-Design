@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1284px" height="771px" viewBox="0 0 1284 771" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>0.0_Onboarding_CLT_Step3.1</title>
+    <title>0.3_Onboarding_LND_Step3.2</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="218" height="680"></rect>
@@ -23,7 +23,7 @@
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.191105769 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
-    <g id="0.0_Onboarding_CLT_Step3.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="0.3_Onboarding_LND_Step3.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect fill="#131415" x="0" y="0" width="1284" height="771"></rect>
         <rect id="Background" fill="#F2F5F6" x="0" y="38" width="1284" height="733"></rect>
         <g id="Group-13" transform="translate(0.000000, 91.000000)">
@@ -337,11 +337,11 @@
                 <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
                 <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
             </g>
-            <text id="C-Lightning-Configur" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill="#343434">
-                <tspan x="63.78125" y="273">C-Lightning Configuration Files</tspan>
+            <text id="LND-Configuration-Fi" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill="#343434">
+                <tspan x="102.927734" y="273">LND Configuration Files</tspan>
             </text>
             <text id="Locate-the-folder-co" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#6E6E6E">
-                <tspan x="65.1054688" y="305">Locate the folder containing access.macaroon</tspan>
+                <tspan x="93.4414062" y="305">Locate the folder containing lnd.config</tspan>
             </text>
             <g id="Group-29" transform="translate(366.000000, 489.000000)">
                 <rect id="Rectangle-Copy-7" x="0" y="0" width="65" height="36" rx="4"></rect>
@@ -396,8 +396,8 @@
             </g>
             <g id="Group-27" transform="translate(25.000000, 336.000000)">
                 <path d="M4,0 L402,0 C404.209139,-4.05812251e-16 406,1.790861 406,4 L406,50 L406,50 L0,50 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#F0F0F0"></path>
-                <text id="Path-to-access.macar" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494949">
-                    <tspan x="12" y="33">Path to access.macaroon</tspan>
+                <text id="Path-to-lnd.conf" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" fill="#494949">
+                    <tspan x="12" y="33">Path to lnd.conf</tspan>
                 </text>
                 <rect id="Rectangle" stroke="#838383" x="0.5" y="49.5" width="405" height="1"></rect>
                 <g id="Group-24" transform="translate(0.000000, 68.000000)">
