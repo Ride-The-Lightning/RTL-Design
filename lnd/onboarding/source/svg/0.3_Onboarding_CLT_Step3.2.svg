@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1284px" height="771px" viewBox="0 0 1284 771" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
     <title>0.3_Onboarding_CLT_Step3.2</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -402,9 +402,6 @@
                 <rect id="Rectangle" stroke="#838383" x="0.5" y="49.5" width="405" height="1"></rect>
                 <g id="Group-24" transform="translate(0.000000, 68.000000)">
                     <rect id="Rectangle-Copy-7" x="0" y="0" width="94" height="36" rx="4"></rect>
-                    <text id="BROWSE" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="1" fill="#432BAE">
-                        <tspan x="16.0410156" y="23">BROWSE</tspan>
-                    </text>
                 </g>
                 <text id="info-circle" font-family="FontAwesome5Pro-Solid, Font Awesome 5 Pro" font-size="14" font-weight="700" fill="#84979E">
                     <tspan x="374" y="32">info-circle</tspan>
