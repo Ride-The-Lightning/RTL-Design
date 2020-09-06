@@ -1,5 +1,5 @@
 ## What is RTL?
-RTL (Ride The Lightning) is a full function, device agnostic, web user interface to help manage lightning node operations. RTL is available on LND and C-Lightning implementations.
+RTL (Ride The Lightning) is a full function, device agnostic, web user interface to help manage lightning node operations. RTL is available on LND, C-Lightning and Eclair implementations.
 
 Visit the development repository [ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL) for more information.
 Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announcements.
