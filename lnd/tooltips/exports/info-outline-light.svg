@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>info/16px/outline/light</title>
+    <g id="info/16px/outline/light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="info-16px">
+            <polygon id="Path" points="0 0 16 0 16 16 0 16"></polygon>
+            <path d="M8,1.33333333 C4.32,1.33333333 1.33333333,4.32 1.33333333,8 C1.33333333,11.68 4.32,14.6666667 8,14.6666667 C11.68,14.6666667 14.6666667,11.68 14.6666667,8 C14.6666667,4.32 11.68,1.33333333 8,1.33333333 Z" id="Path" stroke="#131415" fill-rule="nonzero"></path>
+            <path d="M8.66666667,7.33333333 L8.66666667,11.3333333 L7.33333333,11.3333333 L7.33333333,7.33333333 L8.66666667,7.33333333 Z M8.66666667,4.66666667 L8.66666667,6 L7.33333333,6 L7.33333333,4.66666667 L8.66666667,4.66666667 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

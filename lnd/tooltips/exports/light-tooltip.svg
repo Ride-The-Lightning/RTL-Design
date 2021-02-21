@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="32px" viewBox="0 0 82 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tooltip/light</title>
+    <defs>
+        <filter x="-14.6%" y="-37.5%" width="129.3%" height="175.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="tooltip/light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" fill="#232F34" filter="url(#filter-1)">
+            <polygon id="Path-5" transform="translate(3.500000, 17.000000) scale(-1, 1) translate(-3.500000, -17.000000) " points="0 9.61171463 7 16.9658004 0 24.3882854"></polygon>
+            <path d="M9,0 L79,0 C80.6568542,-3.04359188e-16 82,1.34314575 82,3 L82,29 C82,30.6568542 80.6568542,32 79,32 L9,32 C7.34314575,32 6,30.6568542 6,29 L6,3 C6,1.34314575 7.34314575,3.04359188e-16 9,0 Z" id="Rectangle"></path>
+        </g>
+    </g>
+</svg>
