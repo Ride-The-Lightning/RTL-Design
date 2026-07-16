@@ -23,6 +23,6 @@ Now that we are in the right directory we have to unzip the file.
 $ unzip filename.sketch
 ```
 
-The `.sketch` file is now unzipped if we look in the directory we can see all the extracted `.JSON` files that can now be tracked within git. The only thing that is left is to commit the files to your local branch. More on this check [Gitflow Design](https://github.com/diogorsergio/RTL-Design/blob/master/readme.md).
+The `.sketch` file is now unzipped if we look in the directory we can see all the extracted `.JSON` files that can now be tracked within git. The only thing that is left is to commit the files to your local branch. More on this check [Gitflow Design](https://github.com/Ride-The-Lightning/RTL-Design/blob/master/readme.md).
 
 **Keep in mind that every time you change and save the `.sketch` file you will have to unzip it so that changes can be tracked within git.**
