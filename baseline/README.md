@@ -19,13 +19,18 @@ Where the two disagree, the screenshots are the accurate record of the app.
 | Field | Value |
 |---|---|
 | RTL app version | 0.15.8-beta (`shahanafarooqui/rtl:v0.15.8`) |
-| RTL app commit | `6a01e96c` (`master`), plus the fixture password fix from PR #1623 |
 | Node implementation | LND 0.20.0-beta (`polarlightning/lnd:0.20.0-beta`) |
 | Backend | Bitcoin Core 30.0 (`polarlightning/bitcoind:30.0`) |
 | Network | regtest |
 | Capture date | 2026-07-16 |
-| Fixture | RTL repo, `docker/` — see its README |
+| Fixture | RTL repo at commit `1a6cb0b0`, directory `docker/` |
 | Capture harness | `capture/` in this folder |
+
+The fixture commit is the reproducibility anchor: `docker/` at `1a6cb0b0` was
+verified byte-identical to the tree these screenshots were captured against.
+Check out that commit, run the fixture and the harness, and you get this state
+back. The RTL, LND and bitcoind versions above are pinned inside that commit's
+`docker-compose.yml` rather than being incidental to the machine that ran it.
 
 ## Capture conditions
 
