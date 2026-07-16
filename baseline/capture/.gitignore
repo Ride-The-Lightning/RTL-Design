@@ -1,0 +1,4 @@
+node_modules/
+# Default output dir when OUT_DIR is unset. The committed shots live in
+# baseline/ itself -- run with OUT_DIR=.. to put them there.
+shots/
