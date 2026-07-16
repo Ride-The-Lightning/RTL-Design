@@ -1,7 +1,7 @@
 ## What is RTL?
-RTL (Ride The Lightning) is a full function, device agnostic, web user interface to help manage lightning node operations. RTL is available on LND, C-Lightning and Eclair implementations.
+RTL (Ride The Lightning) is a full function, device agnostic, web user interface to help manage lightning node operations. RTL is available on LND, Core Lightning and Eclair implementations.
 
-Visit the development repository [ShahanaFarooqui/RTL](https://github.com/ShahanaFarooqui/RTL) for more information.
+Visit the development repository [Ride-The-Lightning/RTL](https://github.com/Ride-The-Lightning/RTL) for more information.
 Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announcements.
 
 ## Table of contents
@@ -26,6 +26,9 @@ Follow [@RTL_App](https://twitter.com/rtl_app) on Twitter for important announce
 * [License](#license)
 
 ## RTL-Design
+
+> **Note:** The Sketch-era mockups in this repository were produced between 2019 and 2021 and predate the currently shipped RTL interface. They record what was *proposed* at the time, not what was built, and should not be treated as ground truth for RTL's present UI.
+
 This is the Github repository for the design work stream of RTL. It exists as a way to mitigate issues commonly found in design workflows of open-source software projects where the work created never comes into git. Which means such work is not being tracked and doesn't have an auditable history. Files also might not be stored in a common place accessible to everyone, so its always a hit and miss on how to gain access to them, and sometimes due to these being created with proprietary software they can sit behind a closed gateway and as contributors come and go from the project their access can be lost.
 
 By using git we make things easier and open for anyone wanting to collaborate and hopefully streamlining the work process by connecting the development and design repositories together. For this to work a success we need to adopt a design workflow that focus on open-source ideals, so that no one is restricted by proprietary software and gatekeepers. We introduce such workflow bellow which we have been testing, It's called **Gitflow Design** and It's based on the popular [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) (Gitflow) by [Vincent Driessen](https://nvie.com/about/), but adapted to a design workflow.
@@ -100,20 +103,14 @@ This is an example of the folder structure being used to keep things organised a
 
     .
     ├── documentation                  # Supporting documents
-    │   └── research                   # Research material
+    │   └── research                   # Research material
     ├── images                         # Assorted images
-    └── lnd                            # Lightning implementations
+    └── lnd                            # Lightning implementation (LND)
         └── dashboard                  # Feature files
-            ├── ux                     # User experience work
-            │    ├── exports           # Exported artboards
-            │    └── source            # Source files
-            │        ├── sketch        # Editable file being used
-            │        └── svg           # Open format alternative
-            └── ui                     # User interface work
-                ├── exports            # Exported assets
-                └── source             # Source files
-                    ├── psd            # Editable file being used
-                    └── xcf            # Open format alternative
+            ├── exports                # Exported artboards
+            └── source                 # Source files
+                ├── sketch             # Editable file, plus its unzipped contents
+                └── svg                # Open format alternative
 
 
 
@@ -144,7 +141,7 @@ Launch the Github Desktop app and click to `Clone a repository from the Internet
 
 #### Step 2 - Clone the Repo
 
-Enter the RTL-Design repository URL or username/repo:  `diogorsergio/RTL-Design`
+Enter the RTL-Design repository URL or username/repo:  `Ride-The-Lightning/RTL-Design`
 <p><img src="images/guide/Flow02.png" width="70%"></p><br>
 
 #### Step 3 - Design Branch
@@ -198,7 +195,7 @@ If you're quite comfortable with command line applications and prefer to interac
 $ cd ~Documents
 
 # Clone the repository.
-$ git clone https://github.com/diogorsergio/RTL-Design.git
+$ git clone https://github.com/Ride-The-Lightning/RTL-Design.git
 
 # Go into its directory.
 $ cd RTL-Design
@@ -253,15 +250,14 @@ The changes are now pushed and available for everyone to see in github, so the l
 # When you pushed the commit the output should have been something similar to this.
 
 remote: Create a pull request for 'ux/lightning' on GitHub by visiting:
-remote: https://github.com/diogorsergio/RTL-Design/pull/new/ux/lightning
+remote: https://github.com/Ride-The-Lightning/RTL-Design/pull/new/ux/lightning
 
 # You can just open the URL and it will open the Github with the Pull Request interface on it.
 
 ```
 
 ## Contact
-* Twitter: [@diogorsergio](https://twitter.com/diogorsergio)
-* IRC: #rtl-dev on [freenode.net](https://freenode.net)
+Discussion happens on Github. For design work, open an issue on [RTL-Design](https://github.com/Ride-The-Lightning/RTL-Design/issues); for the app itself, use [RTL](https://github.com/Ride-The-Lightning/RTL/issues).
 
 ## Acknowledgements
 * A successful Git branching model by [Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
